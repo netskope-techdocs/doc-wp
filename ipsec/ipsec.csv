@@ -1,0 +1,11 @@
+tunnel name,Source Identity,Source IP address,Primary POP,Failover POP,Encryption Cipher,PSK,Maximum Bandwidth,Enabled
+TunnelHQ-Seattle,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-Vancouver,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-Dallas,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-NYC,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-Montreal,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-Atlanta,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-Paris,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-Stockholm,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-Sydney,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
+TunnelHQ-Osaka,admin@example.com,192.0.2.1,NYC1,ATL1,AES128-CBC,netSk0pe,50,TRUE
