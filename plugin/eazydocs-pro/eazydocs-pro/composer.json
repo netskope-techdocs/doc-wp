@@ -1,0 +1,14 @@
+{
+    "name": "delwer/eazydocs-pro",
+    "description": "Later",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "eazyDocsPro\\": "includes/"
+        },
+        "files": []
+    }
+}

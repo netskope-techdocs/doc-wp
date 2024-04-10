@@ -1,0 +1,13 @@
+{
+    "name": "docy/docy-core",
+    "description": "Required plugin for Docy WordPress theme",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DocyCore\\Widgets\\": "widgets/"
+        }
+    }
+}

@@ -1,0 +1,4838 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Docy Core\n"
+"POT-Creation-Date: 2023-01-01 23:35+0600\n"
+"PO-Revision-Date: 2020-08-07 01:24+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: docy-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: blocks/_blocks-working.php:52 widgets/Video_playlist.php:54
+msgid "Tab"
+msgstr ""
+
+#: blocks/_blocks-working.php:53
+msgid "A custom tab block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:63 widgets/Accordion.php:47
+#: widgets/Accordion.php:58
+msgid "Accordion"
+msgstr ""
+
+#: blocks/_blocks-working.php:64
+msgid "A custom accordion block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:74
+msgid "Notice/Message"
+msgstr ""
+
+#: blocks/_blocks-working.php:75
+msgid "A custom notice/message block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:85 widgets/Changelogs.php:26
+msgid "Changelogs"
+msgstr ""
+
+#: blocks/_blocks-working.php:86
+msgid "A custom changelog block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:96 blocks/_blocks.php:53
+#: widgets/Cheatsheet.php:30 widgets/Cheatsheet.php:51
+msgid "Cheat Sheet"
+msgstr ""
+
+#: blocks/_blocks-working.php:97 blocks/_blocks.php:54
+msgid "A custom cheat sheet block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:107
+msgid "Test Block"
+msgstr ""
+
+#: blocks/_blocks-working.php:108
+msgid "A custom test block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:118 blocks/_blocks.php:64
+msgid "Image Hotspots"
+msgstr ""
+
+#: blocks/_blocks-working.php:119 blocks/_blocks.php:65
+msgid "A custom image hotspots block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:129 blocks/_blocks.php:75
+msgid "Docy List"
+msgstr ""
+
+#: blocks/_blocks-working.php:130 blocks/_blocks.php:76
+msgid "A custom list style block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:140 widgets/Hero.php:28
+msgid "Hero Search"
+msgstr ""
+
+#: blocks/_blocks-working.php:141
+msgid "A custom hero search block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:155
+msgid "Subscribe"
+msgstr ""
+
+#: blocks/_blocks-working.php:156
+msgid "A custom subscribe block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:169
+msgid "Docy Counter"
+msgstr ""
+
+#: blocks/_blocks-working.php:170
+msgid "A custom counter up number block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:209
+msgid "Testimonial"
+msgstr ""
+
+#: blocks/_blocks-working.php:210
+msgid "A custom testimonial block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:226 widgets/Forum_topics.php:29
+msgid "Forum Topics"
+msgstr ""
+
+#: blocks/_blocks-working.php:227
+msgid "A custom forum topics block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:237 widgets/Single_doc.php:30
+msgid "Single Doc"
+msgstr ""
+
+#: blocks/_blocks-working.php:238
+msgid "A custom single doc block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:248 widgets/Forums.php:28
+#: wp-widgets/Forums_widget.php:171 wp-widgets/Topic_details.php:177
+msgid "Forums"
+msgstr ""
+
+#: blocks/_blocks-working.php:249
+msgid "A custom forums block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:259 widgets/Single_forum.php:28
+msgid "Single Forum"
+msgstr ""
+
+#: blocks/_blocks-working.php:260
+msgid "A custom single forum block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:270 blocks/inc/hero/hero-1.php:50
+#: widgets/Docs.php:31 widgets/inc/hero/hero-1.php:52
+msgid "Docs"
+msgstr ""
+
+#: blocks/_blocks-working.php:271
+msgid "A customd docs block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:281 widgets/Faq.php:26
+msgid "FAQ Tabs"
+msgstr ""
+
+#: blocks/_blocks-working.php:282
+msgid "A customd faqs block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:292
+msgid "Feature Boxes"
+msgstr ""
+
+#: blocks/_blocks-working.php:293
+msgid "A customd feature boxes block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:303
+msgid "Feature Icon Boxes"
+msgstr ""
+
+#: blocks/_blocks-working.php:304
+msgid "A customd feature icon boxes block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:314
+msgid "Docy Ask"
+msgstr ""
+
+#: blocks/_blocks-working.php:315
+msgid "A customd ask block by Docy."
+msgstr ""
+
+#: blocks/_blocks-working.php:325
+msgid "Docy CTA"
+msgstr ""
+
+#: blocks/_blocks-working.php:326
+msgid "A customd cta block by Docy."
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-margin-v5.php:41
+msgid "Docy Margin"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-margin-v5.php:66
+#: blocks/fields/class-docy-acf-field-padding-v5.php:66
+#: blocks/fields/class-docy-acf-field-typography-v5.php:121
+msgid "Error! Please enter a higher value"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-margin-v5.php:109
+#: blocks/fields/class-docy-acf-field-padding-v5.php:110
+#: blocks/fields/class-docy-acf-field-typography-v5.php:165
+msgid "Enable Field"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-margin-v5.php:110
+#: blocks/fields/class-docy-acf-field-margin-v5.php:119
+#: blocks/fields/class-docy-acf-field-margin-v5.php:127
+#: blocks/fields/class-docy-acf-field-margin-v5.php:135
+#: blocks/fields/class-docy-acf-field-margin-v5.php:144
+#: blocks/fields/class-docy-acf-field-padding-v5.php:111
+#: blocks/fields/class-docy-acf-field-padding-v5.php:120
+#: blocks/fields/class-docy-acf-field-padding-v5.php:128
+#: blocks/fields/class-docy-acf-field-padding-v5.php:136
+#: blocks/fields/class-docy-acf-field-padding-v5.php:145
+#: blocks/fields/class-docy-acf-field-typography-v5.php:166
+#: blocks/fields/class-docy-acf-field-typography-v5.php:175
+#: blocks/fields/class-docy-acf-field-typography-v5.php:184
+#: blocks/fields/class-docy-acf-field-typography-v5.php:196
+#: blocks/fields/class-docy-acf-field-typography-v5.php:205
+#: blocks/fields/class-docy-acf-field-typography-v5.php:214
+#: blocks/fields/class-docy-acf-field-typography-v5.php:223
+#: blocks/fields/class-docy-acf-field-typography-v5.php:232
+#: widgets/Code.php:270 widgets/Data_Table.php:75
+msgid "Default"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-margin-v5.php:118
+msgid "Margin Top"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-margin-v5.php:126
+msgid "Margin Right"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-margin-v5.php:134
+msgid "Margin Bottom"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-margin-v5.php:143
+msgid "Margin Left"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-padding-v5.php:41
+msgid "Docy Padding"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-padding-v5.php:119
+msgid "Padding Top"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-padding-v5.php:127
+msgid "Padding Right"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-padding-v5.php:135
+msgid "Padding Bottom"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-padding-v5.php:144
+msgid "Padding Left"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-typography-v5.php:41
+msgid "Docy Typography"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-typography-v5.php:174
+msgid "Family"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-typography-v5.php:183
+#: widgets/Alerts_box.php:394 widgets/Image_HotSpots.php:217
+#: widgets/List_item.php:232
+msgid "Size"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-typography-v5.php:195
+msgid "Weight"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-typography-v5.php:204
+msgid "Transform"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-typography-v5.php:213
+#: widgets/Code.php:304
+msgid "Style"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-typography-v5.php:222
+msgid "Decoration"
+msgstr ""
+
+#: blocks/fields/class-docy-acf-field-typography-v5.php:231
+#: widgets/List_item.php:264
+msgid "Line Height"
+msgstr ""
+
+#: blocks/inc/forum-topics/forum-topics-1.php:24
+#: widgets/inc/forum-topics/forum-topics-1.php:16
+msgid "Last active: "
+msgstr ""
+
+#: blocks/inc/forum-topics/forum-topics-2.php:96
+#: widgets/inc/forum-topics/forum-topics-2.php:68
+msgid "Replies in this topic."
+msgstr ""
+
+#: blocks/inc/forum-topics/forum-topics-2.php:97 widgets/inc/docs/docs-5.php:59
+#: widgets/inc/forum-topics/forum-topics-2.php:69
+msgid "Written by "
+msgstr ""
+
+#: blocks/inc/forums/forums-1.php:36 blocks/inc/forums/forums-1.php:66
+#: blocks/inc/forums/forums-2.php:18 blocks/inc/forums/forums-2.php:60
+#: widgets/inc/forums/forums-1.php:18 widgets/inc/forums/forums-1.php:43
+#: widgets/inc/forums/forums-2.php:13 widgets/inc/forums/forums-2.php:50
+msgid "Posts"
+msgstr ""
+
+#: blocks/inc/hero/ajax-sarch-results.php:1
+#: widgets/inc/hero/ajax-sarch-results.php:1
+#: widgets/inc/search-form/ajax-sarch-results.php:1
+msgid "No Results Found"
+msgstr ""
+
+#: blocks/inc/hero/hero-1.php:48 inc/extra.php:72
+#: widgets/inc/hero/hero-1.php:50
+msgid "All"
+msgstr ""
+
+#: blocks/inc/hero/hero-1.php:53 widgets/inc/hero/hero-1.php:55
+msgid "Forum"
+msgstr ""
+
+#: blocks/inc/hero/hero-1.php:55 widgets/inc/hero/hero-1.php:57
+msgid "Blog"
+msgstr ""
+
+#: blocks/inc/hero/hero-5.php:8 blocks/inc/hero/hero-5.php:17
+#: widgets/inc/hero/hero-5.php:9 widgets/inc/hero/hero-5.php:21
+msgid "file illustration"
+msgstr ""
+
+#: blocks/inc/hero/search-spinner.php:2 widgets/inc/hero/search-spinner.php:2
+#: widgets/inc/search-form/search-form.php:9
+msgid "loading"
+msgstr ""
+
+#: blocks/inc/single-forum/single-forum-1.php:28
+#: blocks/inc/single-forum/single-forum-2.php:24 widgets/Single_forum.php:103
+#: widgets/inc/single-doc/single-doc-1.php:26
+#: widgets/inc/single-forum/single-forum-1.php:11
+#: widgets/inc/single-forum/single-forum-2.php:7
+msgid "Topics"
+msgstr ""
+
+#: blocks/inc/single-forum/single-forum-1.php:37
+#: blocks/inc/single-forum/single-forum-1.php:90
+#: blocks/inc/single-forum/single-forum-2.php:32
+#: widgets/inc/single-forum/single-forum-1.php:20
+#: widgets/inc/single-forum/single-forum-1.php:73
+#: widgets/inc/single-forum/single-forum-2.php:15
+msgid "Replies"
+msgstr ""
+
+#: blocks/inc/single-forum/single-forum-1.php:70
+#: widgets/inc/single-forum/single-forum-1.php:53
+msgid "Topic"
+msgstr ""
+
+#: blocks/inc/single-forum/single-forum-1.php:73
+#: widgets/inc/single-forum/single-forum-1.php:56
+msgid "Voice"
+msgstr ""
+
+#: blocks/inc/single-forum/single-forum-1.php:99
+#: widgets/inc/single-forum/single-forum-1.php:82
+msgid "Freshness"
+msgstr ""
+
+#: blocks/inc/single-forum/single-forum-1.php:149
+#: widgets/inc/single-forum/single-forum-1.php:132
+msgid "No posts found."
+msgstr ""
+
+#: blocks/inc/single-forum/single-forum-1.php:158
+#: blocks/inc/single-forum/single-forum-2.php:58 widgets/Single_forum.php:181
+msgid "Please select a forum."
+msgstr ""
+
+#: docy-core.php:108 docy-core.php:122
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. translators: 1: Docy Core 2: Elementor
+#: docy-core.php:291
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: docy-core.php:292
+msgid "Docy core"
+msgstr ""
+
+#: docy-core.php:293 docy-core.php:310
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Docy Core 2: Elementor 3: Required Elementor version
+#. translators: 1: Docy Core 2: PHP 3: Required PHP version
+#: docy-core.php:308 docy-core.php:326
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: docy-core.php:309 docy-core.php:327
+msgid "Docy Core"
+msgstr ""
+
+#: docy-core.php:328
+msgid "PHP"
+msgstr ""
+
+#: docy-core.php:346
+msgid "Docy Elements"
+msgstr ""
+
+#: docy-core.php:441
+msgid "Elegant Icons"
+msgstr ""
+
+#: inc/extra.php:46
+msgid "share:"
+msgstr ""
+
+#: inc/extra.php:203
+msgid "H1"
+msgstr ""
+
+#: inc/extra.php:204
+msgid "H2"
+msgstr ""
+
+#: inc/extra.php:205
+msgid "H3"
+msgstr ""
+
+#: inc/extra.php:206
+msgid "H4"
+msgstr ""
+
+#: inc/extra.php:207
+msgid "H5"
+msgstr ""
+
+#: inc/extra.php:208
+msgid "H6"
+msgstr ""
+
+#: inc/extra.php:209
+msgid "Div"
+msgstr ""
+
+#: inc/extra.php:210
+msgid "Span"
+msgstr ""
+
+#: inc/extra.php:211 inc/icons.php:372
+msgid "Paragraph"
+msgstr ""
+
+#: inc/extra.php:349 widgets/Data_Table.php:139
+msgid "None"
+msgstr ""
+
+#: inc/extra.php:350
+msgid "ID"
+msgstr ""
+
+#: inc/extra.php:351
+msgid "Author"
+msgstr ""
+
+#: inc/extra.php:352 widgets/Alerts_box.php:88 widgets/Call_to_action.php:77
+#: widgets/Call_to_action.php:215 widgets/Cheatsheet.php:58
+#: widgets/Cheatsheet.php:125 widgets/Hero.php:82 widgets/Hero.php:189
+#: widgets/Info_box.php:52 widgets/List_item.php:66 widgets/Quote.php:55
+#: widgets/Search_Form.php:174 widgets/Single_doc.php:88
+#: widgets/Single_doc.php:340 widgets/Single_doc.php:431
+#: widgets/Subscribe.php:50 widgets/Subscribe.php:56 widgets/Subscribe.php:257
+#: widgets/Video_playlist.php:73
+msgid "Title"
+msgstr ""
+
+#: inc/extra.php:353 widgets/Testimonial.php:93 widgets/Testimonial.php:165
+msgid "Name"
+msgstr ""
+
+#: inc/extra.php:354 widgets/Accordion.php:54 widgets/Alerts_box.php:71
+msgid "Type"
+msgstr ""
+
+#: inc/extra.php:355
+msgid "Date"
+msgstr ""
+
+#: inc/extra.php:356
+msgid "Modified"
+msgstr ""
+
+#: inc/extra.php:357
+msgid "Parent"
+msgstr ""
+
+#: inc/extra.php:358
+msgid "Random"
+msgstr ""
+
+#: inc/extra.php:359
+msgid "Comment Count"
+msgstr ""
+
+#: inc/extra.php:360
+msgid "Relevance"
+msgstr ""
+
+#: inc/extra.php:361
+msgid "Menu Order"
+msgstr ""
+
+#: inc/extra.php:375 post-type/changelog.pt.php:40
+msgid "Add Version"
+msgstr ""
+
+#: inc/icons.php:240
+msgid "Wand"
+msgstr ""
+
+#: inc/icons.php:241
+msgid "Volume"
+msgstr ""
+
+#: inc/icons.php:242
+msgid "User"
+msgstr ""
+
+#: inc/icons.php:243
+msgid "Unlock"
+msgstr ""
+
+#: inc/icons.php:244
+msgid "Unlink"
+msgstr ""
+
+#: inc/icons.php:245
+msgid "Trash"
+msgstr ""
+
+#: inc/icons.php:246
+msgid "Thought"
+msgstr ""
+
+#: inc/icons.php:247
+msgid "Target"
+msgstr ""
+
+#: inc/icons.php:248
+msgid "Tag"
+msgstr ""
+
+#: inc/icons.php:249
+msgid "Tablet"
+msgstr ""
+
+#: inc/icons.php:250
+msgid "Star"
+msgstr ""
+
+#: inc/icons.php:251
+msgid "Spray"
+msgstr ""
+
+#: inc/icons.php:252
+msgid "Shopping Cart Full"
+msgstr ""
+
+#: inc/icons.php:253
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/icons.php:254
+msgid "Settings"
+msgstr ""
+
+#: inc/icons.php:255
+msgid "Search"
+msgstr ""
+
+#: inc/icons.php:256
+msgid "Zoom In"
+msgstr ""
+
+#: inc/icons.php:257
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/icons.php:258
+msgid "Cut"
+msgstr ""
+
+#: inc/icons.php:259
+msgid "Ruler"
+msgstr ""
+
+#: inc/icons.php:260
+msgid "Ruler Pencil"
+msgstr ""
+
+#: inc/icons.php:261
+msgid "Ruler alt"
+msgstr ""
+
+#: inc/icons.php:262
+msgid "Bookmark"
+msgstr ""
+
+#: inc/icons.php:263
+msgid "Bookmark Alt"
+msgstr ""
+
+#: inc/icons.php:264
+msgid "Reload"
+msgstr ""
+
+#: inc/icons.php:265
+msgid "Plus"
+msgstr ""
+
+#: inc/icons.php:266
+msgid "Pin"
+msgstr ""
+
+#: inc/icons.php:267
+msgid "Pencil"
+msgstr ""
+
+#: inc/icons.php:268
+msgid "Pencil Alt"
+msgstr ""
+
+#: inc/icons.php:269
+msgid "Paint Roller"
+msgstr ""
+
+#: inc/icons.php:270
+msgid "Paint Bucket"
+msgstr ""
+
+#: inc/icons.php:271
+msgid "Na"
+msgstr ""
+
+#: inc/icons.php:272
+msgid "Mobile"
+msgstr ""
+
+#: inc/icons.php:273
+msgid "Minus"
+msgstr ""
+
+#: inc/icons.php:274
+msgid "Medall"
+msgstr ""
+
+#: inc/icons.php:275
+msgid "Medall Alt"
+msgstr ""
+
+#: inc/icons.php:276
+msgid "Marker"
+msgstr ""
+
+#: inc/icons.php:277
+msgid "Marker Alt"
+msgstr ""
+
+#: inc/icons.php:278
+msgid "Arrow Up"
+msgstr ""
+
+#: inc/icons.php:279
+msgid "Arrow Right"
+msgstr ""
+
+#: inc/icons.php:280
+msgid "Arrow Left"
+msgstr ""
+
+#: inc/icons.php:281
+msgid "Arrow Down"
+msgstr ""
+
+#: inc/icons.php:282
+msgid "Lock"
+msgstr ""
+
+#: inc/icons.php:283
+msgid "Location Arrow"
+msgstr ""
+
+#: inc/icons.php:284 widgets/Button.php:173 widgets/Data_Table.php:372
+#: widgets/Nav_Menu.php:162
+msgid "Link"
+msgstr ""
+
+#: inc/icons.php:285
+msgid "Layout"
+msgstr ""
+
+#: inc/icons.php:286
+msgid "Layers"
+msgstr ""
+
+#: inc/icons.php:287
+msgid "Layers Alt"
+msgstr ""
+
+#: inc/icons.php:288
+msgid "Key"
+msgstr ""
+
+#: inc/icons.php:289
+msgid "Import"
+msgstr ""
+
+#: inc/icons.php:290 widgets/Data_Table.php:147 widgets/Data_Table.php:179
+#: widgets/Image_HotSpots.php:88
+msgid "Image"
+msgstr ""
+
+#: inc/icons.php:291
+msgid "Heart"
+msgstr ""
+
+#: inc/icons.php:292
+msgid "Heart Broken"
+msgstr ""
+
+#: inc/icons.php:293
+msgid "Hand Stop"
+msgstr ""
+
+#: inc/icons.php:294
+msgid "Hand Open"
+msgstr ""
+
+#: inc/icons.php:295
+msgid "Hand Drag"
+msgstr ""
+
+#: inc/icons.php:296
+msgid "Folder"
+msgstr ""
+
+#: inc/icons.php:297
+msgid "Flag"
+msgstr ""
+
+#: inc/icons.php:298
+msgid "Flag Alt"
+msgstr ""
+
+#: inc/icons.php:299
+msgid "Flag Alt 2"
+msgstr ""
+
+#: inc/icons.php:300
+msgid "Eye"
+msgstr ""
+
+#: inc/icons.php:301
+msgid "Export"
+msgstr ""
+
+#: inc/icons.php:302
+msgid "Exchange Vertical"
+msgstr ""
+
+#: inc/icons.php:303
+msgid "Desktop"
+msgstr ""
+
+#: inc/icons.php:304
+msgid "Cup"
+msgstr ""
+
+#: inc/icons.php:305
+msgid "Crown"
+msgstr ""
+
+#: inc/icons.php:306
+msgid "Comments"
+msgstr ""
+
+#: inc/icons.php:307
+msgid "Comment"
+msgstr ""
+
+#: inc/icons.php:308
+msgid "Comment Alt"
+msgstr ""
+
+#: inc/icons.php:309
+msgid "Close"
+msgstr ""
+
+#: inc/icons.php:310
+msgid "Clip"
+msgstr ""
+
+#: inc/icons.php:311
+msgid "Angle Up"
+msgstr ""
+
+#: inc/icons.php:312
+msgid "Angle Right"
+msgstr ""
+
+#: inc/icons.php:313
+msgid "Angle Left"
+msgstr ""
+
+#: inc/icons.php:314
+msgid "Angle Down"
+msgstr ""
+
+#: inc/icons.php:315
+msgid "Check"
+msgstr ""
+
+#: inc/icons.php:316
+msgid "Check Box"
+msgstr ""
+
+#: inc/icons.php:317
+msgid "Camera"
+msgstr ""
+
+#: inc/icons.php:318
+msgid "Announcement"
+msgstr ""
+
+#: inc/icons.php:319
+msgid "Brush"
+msgstr ""
+
+#: inc/icons.php:320
+msgid "Briefcase"
+msgstr ""
+
+#: inc/icons.php:321
+msgid "Bolt"
+msgstr ""
+
+#: inc/icons.php:322
+msgid "Bolt Alt"
+msgstr ""
+
+#: inc/icons.php:323
+msgid "Blackboard"
+msgstr ""
+
+#: inc/icons.php:324
+msgid "Bag"
+msgstr ""
+
+#: inc/icons.php:325
+msgid "Move"
+msgstr ""
+
+#: inc/icons.php:326
+msgid "Arrows Vertical"
+msgstr ""
+
+#: inc/icons.php:327
+msgid "Arrows Horizontal"
+msgstr ""
+
+#: inc/icons.php:328
+msgid "Fullscreen"
+msgstr ""
+
+#: inc/icons.php:329
+msgid "Arrow Top Right"
+msgstr ""
+
+#: inc/icons.php:330
+msgid "Arrow Top Left"
+msgstr ""
+
+#: inc/icons.php:331
+msgid "Arrow Circle Up"
+msgstr ""
+
+#: inc/icons.php:332
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: inc/icons.php:333
+msgid "Arrow Circle Left"
+msgstr ""
+
+#: inc/icons.php:334
+msgid "Arrow Circle Down"
+msgstr ""
+
+#: inc/icons.php:335
+msgid "Angle Double Up"
+msgstr ""
+
+#: inc/icons.php:336
+msgid "Angle Double Right"
+msgstr ""
+
+#: inc/icons.php:337
+msgid "Angle Double Left"
+msgstr ""
+
+#: inc/icons.php:338
+msgid "Angle Double Down"
+msgstr ""
+
+#: inc/icons.php:339 widgets/Changelogs.php:128
+msgid "Zip"
+msgstr ""
+
+#: inc/icons.php:340
+msgid "World"
+msgstr ""
+
+#: inc/icons.php:341
+msgid "Wheelchair"
+msgstr ""
+
+#: inc/icons.php:342
+msgid "View List"
+msgstr ""
+
+#: inc/icons.php:343
+msgid "View List Alt"
+msgstr ""
+
+#: inc/icons.php:344
+msgid "View Grid"
+msgstr ""
+
+#: inc/icons.php:345
+msgid "Uppercase"
+msgstr ""
+
+#: inc/icons.php:346
+msgid "Upload"
+msgstr ""
+
+#: inc/icons.php:347
+msgid "Underline"
+msgstr ""
+
+#: inc/icons.php:348
+msgid "Truck"
+msgstr ""
+
+#: inc/icons.php:349
+msgid "Timer"
+msgstr ""
+
+#: inc/icons.php:350
+msgid "Ticket"
+msgstr ""
+
+#: inc/icons.php:351
+msgid "Thumb Up"
+msgstr ""
+
+#: inc/icons.php:352
+msgid "Thumb Down"
+msgstr ""
+
+#: inc/icons.php:353 widgets/Image_HotSpots.php:136
+msgid "Text"
+msgstr ""
+
+#: inc/icons.php:354
+msgid "Stats Up"
+msgstr ""
+
+#: inc/icons.php:355
+msgid "Stats Down"
+msgstr ""
+
+#: inc/icons.php:356
+msgid "Split V"
+msgstr ""
+
+#: inc/icons.php:357
+msgid "Split-h"
+msgstr ""
+
+#: inc/icons.php:358
+msgid "Smallcap"
+msgstr ""
+
+#: inc/icons.php:359
+msgid "Shine"
+msgstr ""
+
+#: inc/icons.php:360
+msgid "Shift Right"
+msgstr ""
+
+#: inc/icons.php:361
+msgid "Shift Left"
+msgstr ""
+
+#: inc/icons.php:362
+msgid "Shield"
+msgstr ""
+
+#: inc/icons.php:363
+msgid "Notepad"
+msgstr ""
+
+#: inc/icons.php:364
+msgid "Server"
+msgstr ""
+
+#: inc/icons.php:365
+msgid "Quote Right"
+msgstr ""
+
+#: inc/icons.php:366
+msgid "Quote Left"
+msgstr ""
+
+#: inc/icons.php:367
+msgid "Pulse"
+msgstr ""
+
+#: inc/icons.php:368
+msgid "Printer"
+msgstr ""
+
+#: inc/icons.php:369
+msgid "Power Off"
+msgstr ""
+
+#: inc/icons.php:370
+msgid "Plug"
+msgstr ""
+
+#: inc/icons.php:371
+msgid "Pie Chart"
+msgstr ""
+
+#: inc/icons.php:373
+msgid "Panel"
+msgstr ""
+
+#: inc/icons.php:374
+msgid "Package"
+msgstr ""
+
+#: inc/icons.php:375
+msgid "Music"
+msgstr ""
+
+#: inc/icons.php:376
+msgid "Music Alt"
+msgstr ""
+
+#: inc/icons.php:377
+msgid "Mouse"
+msgstr ""
+
+#: inc/icons.php:378
+msgid "Mouse Alt"
+msgstr ""
+
+#: inc/icons.php:379
+msgid "Money"
+msgstr ""
+
+#: inc/icons.php:380
+msgid "Microphone"
+msgstr ""
+
+#: inc/icons.php:381 widgets/Nav_Menu.php:59
+msgid "Menu"
+msgstr ""
+
+#: inc/icons.php:382
+msgid "Menu Alt"
+msgstr ""
+
+#: inc/icons.php:383
+msgid "Map"
+msgstr ""
+
+#: inc/icons.php:384
+msgid "Map Alt"
+msgstr ""
+
+#: inc/icons.php:385
+msgid "Loop"
+msgstr ""
+
+#: inc/icons.php:386
+msgid "Location Pin"
+msgstr ""
+
+#: inc/icons.php:387 widgets/Forum_topics.php:64 widgets/List_item.php:98
+msgid "List"
+msgstr ""
+
+#: inc/icons.php:388
+msgid "Light Bulb"
+msgstr ""
+
+#: inc/icons.php:389
+msgid "Italic"
+msgstr ""
+
+#: inc/icons.php:390 widgets/Alerts_box.php:77
+msgid "Info"
+msgstr ""
+
+#: inc/icons.php:391
+msgid "Infinite"
+msgstr ""
+
+#: inc/icons.php:392
+msgid "Badge"
+msgstr ""
+
+#: inc/icons.php:393
+msgid "Hummer"
+msgstr ""
+
+#: inc/icons.php:394
+msgid "Home"
+msgstr ""
+
+#: inc/icons.php:395
+msgid "Help"
+msgstr ""
+
+#: inc/icons.php:396
+msgid "Headphone"
+msgstr ""
+
+#: inc/icons.php:397
+msgid "Harddrives"
+msgstr ""
+
+#: inc/icons.php:398
+msgid "Harddrive"
+msgstr ""
+
+#: inc/icons.php:399
+msgid "Gift"
+msgstr ""
+
+#: inc/icons.php:400
+msgid "Game"
+msgstr ""
+
+#: inc/icons.php:401
+msgid "Filter"
+msgstr ""
+
+#: inc/icons.php:402
+msgid "Files"
+msgstr ""
+
+#: inc/icons.php:403
+msgid "File"
+msgstr ""
+
+#: inc/icons.php:404
+msgid "Eraser"
+msgstr ""
+
+#: inc/icons.php:405
+msgid "Envelope"
+msgstr ""
+
+#: inc/icons.php:406 widgets/Changelogs.php:130
+msgid "Download"
+msgstr ""
+
+#: inc/icons.php:407
+msgid "Direction"
+msgstr ""
+
+#: inc/icons.php:408
+msgid "Direction Alt"
+msgstr ""
+
+#: inc/icons.php:409
+msgid "Dashboard"
+msgstr ""
+
+#: inc/icons.php:410
+msgid "Control Stop"
+msgstr ""
+
+#: inc/icons.php:411
+msgid "Control Shuffle"
+msgstr ""
+
+#: inc/icons.php:412
+msgid "Control Play"
+msgstr ""
+
+#: inc/icons.php:413
+msgid "Control Pause"
+msgstr ""
+
+#: inc/icons.php:414
+msgid "Control Forward"
+msgstr ""
+
+#: inc/icons.php:415
+msgid "Control Backward"
+msgstr ""
+
+#: inc/icons.php:416
+msgid "Cloud"
+msgstr ""
+
+#: inc/icons.php:417
+msgid "Cloud-up"
+msgstr ""
+
+#: inc/icons.php:418
+msgid "Cloud Down"
+msgstr ""
+
+#: inc/icons.php:419
+msgid "Clipboard"
+msgstr ""
+
+#: inc/icons.php:420
+msgid "Car"
+msgstr ""
+
+#: inc/icons.php:421
+msgid "Calendar"
+msgstr ""
+
+#: inc/icons.php:422
+msgid "Book"
+msgstr ""
+
+#: inc/icons.php:423
+msgid "Bell"
+msgstr ""
+
+#: inc/icons.php:424
+msgid "Basketball"
+msgstr ""
+
+#: inc/icons.php:425
+msgid "Bar Chart"
+msgstr ""
+
+#: inc/icons.php:426
+msgid "Bar Chart Alt"
+msgstr ""
+
+#: inc/icons.php:427
+msgid "Back Right"
+msgstr ""
+
+#: inc/icons.php:428
+msgid "Back Left"
+msgstr ""
+
+#: inc/icons.php:429
+msgid "Arrows Corner"
+msgstr ""
+
+#: inc/icons.php:430
+msgid "Archive"
+msgstr ""
+
+#: inc/icons.php:431
+msgid "Anchor"
+msgstr ""
+
+#: inc/icons.php:432
+msgid "Align Right"
+msgstr ""
+
+#: inc/icons.php:433
+msgid "Align Left"
+msgstr ""
+
+#: inc/icons.php:434
+msgid "Align Justify"
+msgstr ""
+
+#: inc/icons.php:435
+msgid "Align Center"
+msgstr ""
+
+#: inc/icons.php:436 widgets/Alerts_box.php:182
+msgid "Alert"
+msgstr ""
+
+#: inc/icons.php:437
+msgid "Alarm Clock"
+msgstr ""
+
+#: inc/icons.php:438
+msgid "Agenda"
+msgstr ""
+
+#: inc/icons.php:439
+msgid "Write"
+msgstr ""
+
+#: inc/icons.php:440
+msgid "Window"
+msgstr ""
+
+#: inc/icons.php:441
+msgid "Widgetized"
+msgstr ""
+
+#: inc/icons.php:442
+msgid "Widget"
+msgstr ""
+
+#: inc/icons.php:443
+msgid "Widget Alt"
+msgstr ""
+
+#: inc/icons.php:444
+msgid "Wallet"
+msgstr ""
+
+#: inc/icons.php:445
+msgid "Video Clapper"
+msgstr ""
+
+#: inc/icons.php:446
+msgid "Video Camera"
+msgstr ""
+
+#: inc/icons.php:447
+msgid "Vector"
+msgstr ""
+
+#: inc/icons.php:448
+msgid "Themify Logo"
+msgstr ""
+
+#: inc/icons.php:449
+msgid "Themify Favicon"
+msgstr ""
+
+#: inc/icons.php:450
+msgid "Themify Favicon Alt"
+msgstr ""
+
+#: inc/icons.php:451
+msgid "Support"
+msgstr ""
+
+#: inc/icons.php:452
+msgid "Stamp"
+msgstr ""
+
+#: inc/icons.php:453
+msgid "Split V Alt"
+msgstr ""
+
+#: inc/icons.php:454
+msgid "Slice"
+msgstr ""
+
+#: inc/icons.php:455
+msgid "Shortcode"
+msgstr ""
+
+#: inc/icons.php:456
+msgid "Shift Right Alt"
+msgstr ""
+
+#: inc/icons.php:457
+msgid "Shift Left Alt"
+msgstr ""
+
+#: inc/icons.php:458
+msgid "Ruler Alt 2"
+msgstr ""
+
+#: inc/icons.php:459
+msgid "Receipt"
+msgstr ""
+
+#: inc/icons.php:460
+msgid "Pin2"
+msgstr ""
+
+#: inc/icons.php:461
+msgid "Pin Alt"
+msgstr ""
+
+#: inc/icons.php:462
+msgid "Pencil Alt2"
+msgstr ""
+
+#: inc/icons.php:463
+msgid "Palette"
+msgstr ""
+
+#: inc/icons.php:464
+msgid "More"
+msgstr ""
+
+#: inc/icons.php:465
+msgid "More Alt"
+msgstr ""
+
+#: inc/icons.php:466
+msgid "Microphone Alt"
+msgstr ""
+
+#: inc/icons.php:467
+msgid "Magnet"
+msgstr ""
+
+#: inc/icons.php:468
+msgid "Line Double"
+msgstr ""
+
+#: inc/icons.php:469
+msgid "Line Dotted"
+msgstr ""
+
+#: inc/icons.php:470
+msgid "Line Dashed"
+msgstr ""
+
+#: inc/icons.php:471
+msgid "Layout Width Full"
+msgstr ""
+
+#: inc/icons.php:472
+msgid "Layout Width Default"
+msgstr ""
+
+#: inc/icons.php:473
+msgid "Layout Width Default Alt"
+msgstr ""
+
+#: inc/icons.php:474
+msgid "Layout Tab"
+msgstr ""
+
+#: inc/icons.php:475
+msgid "Layout Tab Window"
+msgstr ""
+
+#: inc/icons.php:476
+msgid "Layout Tab V"
+msgstr ""
+
+#: inc/icons.php:477
+msgid "Layout Tab Min"
+msgstr ""
+
+#: inc/icons.php:478
+msgid "Layout Slider"
+msgstr ""
+
+#: inc/icons.php:479
+msgid "Layout Slider Alt"
+msgstr ""
+
+#: inc/icons.php:480
+msgid "Layout Sidebar Right"
+msgstr ""
+
+#: inc/icons.php:481
+msgid "Layout Sidebar None"
+msgstr ""
+
+#: inc/icons.php:482
+msgid "Layout Sidebar Left"
+msgstr ""
+
+#: inc/icons.php:483
+msgid "Layout Placeholder"
+msgstr ""
+
+#: inc/icons.php:484
+msgid "Layout Menu"
+msgstr ""
+
+#: inc/icons.php:485
+msgid "layout Menu V"
+msgstr ""
+
+#: inc/icons.php:486
+msgid "Layout Menu Separated"
+msgstr ""
+
+#: inc/icons.php:487
+msgid "Layout Menu Full"
+msgstr ""
+
+#: inc/icons.php:488
+msgid "Layout Media Right Alt"
+msgstr ""
+
+#: inc/icons.php:489
+msgid "Layout Media Right"
+msgstr ""
+
+#: inc/icons.php:490
+msgid "Layout Media Overlay"
+msgstr ""
+
+#: inc/icons.php:491
+msgid "Layout Media Overlay Alt"
+msgstr ""
+
+#: inc/icons.php:492
+msgid "Layout Media Overlay Alt 2"
+msgstr ""
+
+#: inc/icons.php:493
+msgid "Layout Media Left Alt"
+msgstr ""
+
+#: inc/icons.php:494
+msgid "Layout Media Left"
+msgstr ""
+
+#: inc/icons.php:495
+msgid "Layout Media Center Alt"
+msgstr ""
+
+#: inc/icons.php:496
+msgid "Layout Media Center"
+msgstr ""
+
+#: inc/icons.php:497
+msgid "Layout List Thumb"
+msgstr ""
+
+#: inc/icons.php:498
+msgid "Layout List Thumb Alt"
+msgstr ""
+
+#: inc/icons.php:499
+msgid "Layout List Post"
+msgstr ""
+
+#: inc/icons.php:500
+msgid "Layout List Large Image"
+msgstr ""
+
+#: inc/icons.php:501
+msgid "Layout Line Solid"
+msgstr ""
+
+#: inc/icons.php:502
+msgid "Layout Grid4"
+msgstr ""
+
+#: inc/icons.php:503
+msgid "Layout Grid3"
+msgstr ""
+
+#: inc/icons.php:504
+msgid "Layout Grid2"
+msgstr ""
+
+#: inc/icons.php:505
+msgid "Layout Grid2 Thumb"
+msgstr ""
+
+#: inc/icons.php:506
+msgid "Layout Cta Right"
+msgstr ""
+
+#: inc/icons.php:507
+msgid "Layout Cta Left"
+msgstr ""
+
+#: inc/icons.php:508
+msgid "Layout Cta Center"
+msgstr ""
+
+#: inc/icons.php:509
+msgid "Layout Cta Btn Right"
+msgstr ""
+
+#: inc/icons.php:510
+msgid "Layout Cta Btn Left"
+msgstr ""
+
+#: inc/icons.php:511
+msgid "Layout Column4"
+msgstr ""
+
+#: inc/icons.php:512
+msgid "Layout Column3"
+msgstr ""
+
+#: inc/icons.php:513
+msgid "Layout Column2"
+msgstr ""
+
+#: inc/icons.php:514
+msgid "Layout Accordion Separated"
+msgstr ""
+
+#: inc/icons.php:515
+msgid "Layout Accordion Merged"
+msgstr ""
+
+#: inc/icons.php:516
+msgid "Layout Accordion List"
+msgstr ""
+
+#: inc/icons.php:517
+msgid "Ink Pen"
+msgstr ""
+
+#: inc/icons.php:518
+msgid "Info Alt"
+msgstr ""
+
+#: inc/icons.php:519
+msgid "Help Alt"
+msgstr ""
+
+#: inc/icons.php:520
+msgid "Headphone Alt"
+msgstr ""
+
+#: inc/icons.php:521
+msgid "Hand Point Up"
+msgstr ""
+
+#: inc/icons.php:522
+msgid "Hand Point Right"
+msgstr ""
+
+#: inc/icons.php:523
+msgid "Hand Point Left"
+msgstr ""
+
+#: inc/icons.php:524
+msgid "Hand Point Down"
+msgstr ""
+
+#: inc/icons.php:525
+msgid "Gallery"
+msgstr ""
+
+#: inc/icons.php:526
+msgid "Face Smile"
+msgstr ""
+
+#: inc/icons.php:527
+msgid "Face Sad"
+msgstr ""
+
+#: inc/icons.php:528
+msgid "Credit Card"
+msgstr ""
+
+#: inc/icons.php:529
+msgid "Control Skip Forward"
+msgstr ""
+
+#: inc/icons.php:530
+msgid "Control Record"
+msgstr ""
+
+#: inc/icons.php:531
+msgid "Control Eject"
+msgstr ""
+
+#: inc/icons.php:532
+msgid "Comments Smiley"
+msgstr ""
+
+#: inc/icons.php:533
+msgid "Brush Alt"
+msgstr ""
+
+#: inc/icons.php:534
+msgid "Youtube"
+msgstr ""
+
+#: inc/icons.php:535
+msgid "Vimeo"
+msgstr ""
+
+#: inc/icons.php:536
+msgid "Twitter"
+msgstr ""
+
+#: inc/icons.php:537
+msgid "Time"
+msgstr ""
+
+#: inc/icons.php:538
+msgid "Tumblr"
+msgstr ""
+
+#: inc/icons.php:539
+msgid "Skype"
+msgstr ""
+
+#: inc/icons.php:540
+msgid "Share"
+msgstr ""
+
+#: inc/icons.php:541
+msgid "Share Alt"
+msgstr ""
+
+#: inc/icons.php:542
+msgid "Rocket"
+msgstr ""
+
+#: inc/icons.php:543
+msgid "Pinterest"
+msgstr ""
+
+#: inc/icons.php:544
+msgid "New Window"
+msgstr ""
+
+#: inc/icons.php:545
+msgid "Microsoft"
+msgstr ""
+
+#: inc/icons.php:546
+msgid "List Ol"
+msgstr ""
+
+#: inc/icons.php:547
+msgid "Linkedin"
+msgstr ""
+
+#: inc/icons.php:548
+msgid "Layout Sidebar-2"
+msgstr ""
+
+#: inc/icons.php:549
+msgid "Layout Grid4 Alt"
+msgstr ""
+
+#: inc/icons.php:550
+msgid "Layout Grid3 Alt"
+msgstr ""
+
+#: inc/icons.php:551
+msgid "Layout Grid2 Alt"
+msgstr ""
+
+#: inc/icons.php:552
+msgid "Layout Column4 Alt"
+msgstr ""
+
+#: inc/icons.php:553
+msgid "Layout Column3 Alt"
+msgstr ""
+
+#: inc/icons.php:554
+msgid "Layout Column2 Alt"
+msgstr ""
+
+#: inc/icons.php:555
+msgid "Instagram"
+msgstr ""
+
+#: inc/icons.php:556
+msgid "Google"
+msgstr ""
+
+#: inc/icons.php:557
+msgid "Github"
+msgstr ""
+
+#: inc/icons.php:558
+msgid "Flickr"
+msgstr ""
+
+#: inc/icons.php:559
+msgid "Facebook"
+msgstr ""
+
+#: inc/icons.php:560
+msgid "Dropbox"
+msgstr ""
+
+#: inc/icons.php:561
+msgid "Dribbble"
+msgstr ""
+
+#: inc/icons.php:562
+msgid "Apple"
+msgstr ""
+
+#: inc/icons.php:563
+msgid "Android"
+msgstr ""
+
+#: inc/icons.php:564
+msgid "Save"
+msgstr ""
+
+#: inc/icons.php:565
+msgid "Save Alt"
+msgstr ""
+
+#: inc/icons.php:566
+msgid "Yahoo"
+msgstr ""
+
+#: inc/icons.php:567
+msgid "Wordpress"
+msgstr ""
+
+#: inc/icons.php:568
+msgid "Vimeo Alt"
+msgstr ""
+
+#: inc/icons.php:569
+msgid "Twitter Alt"
+msgstr ""
+
+#: inc/icons.php:570
+msgid "Tumblr Alt"
+msgstr ""
+
+#: inc/icons.php:571
+msgid "Trello"
+msgstr ""
+
+#: inc/icons.php:572
+msgid "Stack Overflow"
+msgstr ""
+
+#: inc/icons.php:573
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/icons.php:574
+msgid "Sharethis"
+msgstr ""
+
+#: inc/icons.php:575
+msgid "Sharethis Alt"
+msgstr ""
+
+#: inc/icons.php:576
+msgid "Reddit"
+msgstr ""
+
+#: inc/icons.php:577
+msgid "Pinterest Alt"
+msgstr ""
+
+#: inc/icons.php:578
+msgid "Microsoft Alt"
+msgstr ""
+
+#: inc/icons.php:579
+msgid "Linux"
+msgstr ""
+
+#: inc/icons.php:580
+msgid "Jsfiddle"
+msgstr ""
+
+#: inc/icons.php:581
+msgid "Joomla"
+msgstr ""
+
+#: inc/icons.php:582
+msgid "Html5"
+msgstr ""
+
+#: inc/icons.php:583
+msgid "Flickr Alt"
+msgstr ""
+
+#: inc/icons.php:584
+msgid "Email"
+msgstr ""
+
+#: inc/icons.php:585
+msgid "Drupal"
+msgstr ""
+
+#: inc/icons.php:586
+msgid "Dropbox Alt"
+msgstr ""
+
+#: inc/icons.php:587
+msgid "Css3"
+msgstr ""
+
+#: inc/icons.php:588
+msgid "Rss"
+msgstr ""
+
+#: inc/icons.php:589
+msgid "Rss-alt"
+msgstr ""
+
+#: inc/notices.php:16
+msgid "You must need to remove the PRO Elements plugin to avoid conflicts."
+msgstr ""
+
+#: inc/notices.php:20
+msgid "Deactivate Pro Elements"
+msgstr ""
+
+#: post-type/acf_meta.php:38
+msgctxt "Post Type General Name"
+msgid "Nones"
+msgstr ""
+
+#: post-type/acf_meta.php:39
+msgctxt "Post Type Singular Name"
+msgid "None"
+msgstr ""
+
+#: post-type/acf_meta.php:40 post-type/acf_meta.php:41
+#: post-type/changelog.pt.php:41 post-type/faq.pt.php:40
+#: post-type/faq.pt.php:41 post-type/mega_menu.pt.php:40
+#: post-type/mega_menu.pt.php:41 post-type/video.pt.php:40
+#: post-type/video.pt.php:41
+msgid "Add New"
+msgstr ""
+
+#: post-type/acf_meta.php:42 post-type/faq.pt.php:42
+#: post-type/mega_menu.pt.php:42 post-type/video.pt.php:42
+msgid "Edit"
+msgstr ""
+
+#: post-type/acf_meta.php:43 post-type/changelog.pt.php:44
+#: post-type/faq.pt.php:43 post-type/mega_menu.pt.php:43
+#: post-type/video.pt.php:43
+msgid "New "
+msgstr ""
+
+#: post-type/acf_meta.php:44 post-type/changelog.pt.php:45
+#: post-type/faq.pt.php:44 post-type/mega_menu.pt.php:44
+#: post-type/video.pt.php:44
+msgid "All "
+msgstr ""
+
+#: post-type/acf_meta.php:45 post-type/acf_meta.php:46
+#: post-type/changelog.pt.php:46 post-type/changelog.pt.php:47
+#: post-type/faq.pt.php:45 post-type/faq.pt.php:46
+#: post-type/mega_menu.pt.php:45 post-type/mega_menu.pt.php:46
+#: post-type/video.pt.php:45 post-type/video.pt.php:46
+msgid "View "
+msgstr ""
+
+#: post-type/acf_meta.php:47 post-type/changelog.pt.php:48
+#: post-type/faq.pt.php:47 post-type/mega_menu.pt.php:47
+#: post-type/video.pt.php:47
+msgid "Search "
+msgstr ""
+
+#: post-type/acf_meta.php:48 post-type/acf_meta.php:49
+#: post-type/changelog.pt.php:49 post-type/changelog.pt.php:50
+#: post-type/faq.pt.php:48 post-type/faq.pt.php:49
+#: post-type/mega_menu.pt.php:48 post-type/mega_menu.pt.php:49
+#: post-type/video.pt.php:48 post-type/video.pt.php:49
+msgid "No "
+msgstr ""
+
+#: post-type/acf_meta.php:48 post-type/changelog.pt.php:49
+#: post-type/faq.pt.php:48 post-type/mega_menu.pt.php:48
+#: post-type/video.pt.php:48
+msgid " found"
+msgstr ""
+
+#: post-type/acf_meta.php:49 post-type/changelog.pt.php:50
+#: post-type/faq.pt.php:49 post-type/mega_menu.pt.php:49
+#: post-type/video.pt.php:49
+msgid " found in Trash"
+msgstr ""
+
+#: post-type/acf_meta.php:79 post-type/changelog.pt.php:80
+#: post-type/faq.pt.php:79 post-type/video.pt.php:79
+msgid " Categories"
+msgstr ""
+
+#: post-type/changelog.pt.php:38
+msgctxt "Post Type General Name"
+msgid "Changelogs"
+msgstr ""
+
+#: post-type/changelog.pt.php:39
+msgctxt "Post Type Singular Name"
+msgid "Changelog"
+msgstr ""
+
+#: post-type/changelog.pt.php:42
+msgid "Add New "
+msgstr ""
+
+#: post-type/changelog.pt.php:43
+msgid "Edit "
+msgstr ""
+
+#: post-type/faq.pt.php:38
+msgctxt "Post Type General Name"
+msgid "Faqs"
+msgstr ""
+
+#: post-type/faq.pt.php:39
+msgctxt "Post Type Singular Name"
+msgid "Faq"
+msgstr ""
+
+#: post-type/mega_menu.pt.php:38
+msgctxt "Post Type General Name"
+msgid "Mega Menus"
+msgstr ""
+
+#: post-type/mega_menu.pt.php:39
+msgctxt "Post Type Singular Name"
+msgid "Mega Menu"
+msgstr ""
+
+#: post-type/video.pt.php:38
+msgctxt "Post Type General Name"
+msgid "Videos"
+msgstr ""
+
+#: post-type/video.pt.php:39
+msgctxt "Post Type Singular Name"
+msgid "Video"
+msgstr ""
+
+#: widgets/Accordion.php:26
+msgid "Docy Accordion"
+msgstr ""
+
+#: widgets/Accordion.php:57
+msgid "Toggle"
+msgstr ""
+
+#: widgets/Accordion.php:66 widgets/Accordion_Article.php:62
+msgid "Expanded"
+msgstr ""
+
+#: widgets/Accordion.php:68 widgets/Accordion_Article.php:64
+#: widgets/Cheatsheet.php:105 widgets/Image_HotSpots.php:109
+msgid "Yes"
+msgstr ""
+
+#: widgets/Accordion.php:69 widgets/Accordion_Article.php:65
+#: widgets/Cheatsheet.php:106 widgets/Image_HotSpots.php:110
+msgid "No"
+msgstr ""
+
+#: widgets/Accordion.php:78 widgets/Hero.php:89 widgets/Single_doc.php:98
+msgid "Title Text"
+msgstr ""
+
+#: widgets/Accordion.php:88
+msgid "Content Text"
+msgstr ""
+
+#: widgets/Accordion.php:101 widgets/Alerts_box.php:136 widgets/Info_box.php:91
+#: widgets/Quote.php:171
+msgid "Style Title"
+msgstr ""
+
+#: widgets/Accordion.php:108 widgets/Accordion.php:149
+#: widgets/Alerts_box.php:143 widgets/Alerts_box.php:190 widgets/Button.php:217
+#: widgets/Button.php:249 widgets/Call_to_action.php:153
+#: widgets/Call_to_action.php:184 widgets/Call_to_action.php:224
+#: widgets/Cheatsheet.php:132 widgets/Data_Table.php:820
+#: widgets/Data_Table.php:837 widgets/Image_HotSpots.php:327
+#: widgets/Info_box.php:98 widgets/Info_box.php:132 widgets/List_item.php:145
+#: widgets/Nav_Menu.php:209 widgets/Nav_Menu.php:241 widgets/Quote.php:178
+#: widgets/Quote.php:212 widgets/Quote.php:246 widgets/Quote.php:280
+#: widgets/Quote.php:313 widgets/Single_doc.php:350 widgets/Single_doc.php:389
+#: widgets/Subscribe.php:198 widgets/Subscribe.php:228
+#: widgets/Subscribe.php:264 widgets/Video_playlist.php:101
+#: widgets/inc/search-form/controls/style.php:89
+msgid "Text Color"
+msgstr ""
+
+#: widgets/Accordion.php:118 widgets/Accordion.php:160
+#: widgets/Alerts_box.php:156 widgets/Alerts_box.php:213
+#: widgets/Alerts_box.php:350 widgets/Button.php:229 widgets/Button.php:260
+#: widgets/Call_to_action.php:163 widgets/Call_to_action.php:194
+#: widgets/Call_to_action.php:259 widgets/Cheatsheet.php:235
+#: widgets/Counter.php:204 widgets/Data_Table.php:498
+#: widgets/Data_Table.php:537 widgets/Image_HotSpots.php:249
+#: widgets/Image_HotSpots.php:318 widgets/Info_box.php:179
+#: widgets/Nav_Menu.php:221 widgets/Nav_Menu.php:252
+#: widgets/Process_Tabs.php:140 widgets/Process_Tabs.php:180
+#: widgets/Subscribe.php:208 widgets/Subscribe.php:238
+#: widgets/Subscribe.php:348 widgets/Tabs.php:214
+#: widgets/Video_playlist.php:144
+#: widgets/inc/hero/controls/style_keywords.php:52
+#: widgets/inc/search-form/controls/style.php:38
+#: widgets/inc/search-form/controls/style.php:132
+#: widgets/inc/search-form/controls/style.php:198
+msgid "Background Color"
+msgstr ""
+
+#: widgets/Accordion.php:129 widgets/Alerts_box.php:170
+#: widgets/Alerts_box.php:204 widgets/Call_to_action.php:236
+#: widgets/Info_box.php:109 widgets/List_item.php:187 widgets/Quote.php:189
+#: widgets/Quote.php:223 widgets/Quote.php:257 widgets/Quote.php:291
+#: widgets/Quote.php:324 widgets/Tabs.php:147
+#: widgets/inc/hero/controls/style_keywords.php:63
+#: widgets/inc/search-form/controls/style.php:81
+#: widgets/inc/search-form/controls/style.php:209
+msgid "Typography"
+msgstr ""
+
+#: widgets/Accordion.php:142 widgets/Hero.php:298 widgets/Testimonial.php:213
+msgid "Style Content"
+msgstr ""
+
+#: widgets/Accordion.php:171 widgets/Hero.php:335
+msgid "Subtitle Typography"
+msgstr ""
+
+#: widgets/Accordion_Article.php:26
+msgid "Accordion Articles"
+msgstr ""
+
+#: widgets/Accordion_Article.php:47
+msgid "Article Accordion"
+msgstr ""
+
+#: widgets/Accordion_Article.php:54
+msgid "Select category"
+msgstr ""
+
+#: widgets/Alerts_box.php:24
+msgid "Docy Alert"
+msgstr ""
+
+#: widgets/Alerts_box.php:47 widgets/Info_box.php:45
+msgid "Alert/Note"
+msgstr ""
+
+#: widgets/Alerts_box.php:54
+msgid "Display Type"
+msgstr ""
+
+#: widgets/Alerts_box.php:58
+msgid "Alert Box"
+msgstr ""
+
+#: widgets/Alerts_box.php:59
+msgid "Note"
+msgstr ""
+
+#: widgets/Alerts_box.php:60
+msgid "Note With Icon"
+msgstr ""
+
+#: widgets/Alerts_box.php:61
+msgid "Explanation"
+msgstr ""
+
+#: widgets/Alerts_box.php:62
+msgid "Dual Box Notice"
+msgstr ""
+
+#: widgets/Alerts_box.php:63
+msgid "Block Notice"
+msgstr ""
+
+#: widgets/Alerts_box.php:75
+msgid "Message"
+msgstr ""
+
+#: widgets/Alerts_box.php:76
+msgid "Warning"
+msgstr ""
+
+#: widgets/Alerts_box.php:78
+msgid "Success"
+msgstr ""
+
+#: widgets/Alerts_box.php:79
+msgid "Danger"
+msgstr ""
+
+#: widgets/Alerts_box.php:98
+msgid "Description"
+msgstr ""
+
+#: widgets/Alerts_box.php:107
+msgid "Dismiss Button"
+msgstr ""
+
+#: widgets/Alerts_box.php:111
+msgid "Show"
+msgstr ""
+
+#: widgets/Alerts_box.php:112
+msgid "Hide"
+msgstr ""
+
+#: widgets/Alerts_box.php:123 widgets/Button.php:120
+msgid "Font-Awesome"
+msgstr ""
+
+#: widgets/Alerts_box.php:229 widgets/Counter.php:214
+msgid "Background Color 02"
+msgstr ""
+
+#: widgets/Alerts_box.php:243 widgets/Button.php:271 widgets/Nav_Menu.php:263
+msgid "Border Color"
+msgstr ""
+
+#: widgets/Alerts_box.php:259
+msgid "Left Border Width"
+msgstr ""
+
+#: widgets/Alerts_box.php:279 widgets/Button.php:318
+#: widgets/Call_to_action.php:281 widgets/Code.php:358
+#: widgets/Data_Table.php:468 widgets/Data_Table.php:723
+#: widgets/Forum_topics.php:180 widgets/Image_HotSpots.php:284
+#: widgets/Info_box.php:190 widgets/List_item.php:293 widgets/Nav_Menu.php:310
+#: widgets/Single_doc.php:323 widgets/Subscribe.php:325 widgets/Tabs.php:181
+#: widgets/Tabs.php:279 widgets/inc/hero/controls/style_keywords.php:71
+#: widgets/inc/search-form/controls/style.php:17
+#: widgets/inc/search-form/controls/style.php:109
+#: widgets/inc/search-form/controls/style.php:217
+msgid "Padding"
+msgstr ""
+
+#: widgets/Alerts_box.php:296
+msgid "Layer Alignment"
+msgstr ""
+
+#: widgets/Alerts_box.php:300
+msgid "Top Left"
+msgstr ""
+
+#: widgets/Alerts_box.php:304
+msgid "Top Right"
+msgstr ""
+
+#: widgets/Alerts_box.php:308
+msgid "Bottom Left"
+msgstr ""
+
+#: widgets/Alerts_box.php:312
+msgid "Bottom Right"
+msgstr ""
+
+#: widgets/Alerts_box.php:329 widgets/Alerts_box.php:372 widgets/Button.php:48
+#: widgets/Code.php:119 widgets/Data_Table.php:143 widgets/Data_Table.php:162
+#: widgets/Data_Table.php:289 widgets/Data_Table.php:327
+#: widgets/List_item.php:200 widgets/Tabs.php:64
+msgid "Icon"
+msgstr ""
+
+#: widgets/Alerts_box.php:340 widgets/Alerts_box.php:383
+#: widgets/Data_Table.php:484 widgets/Data_Table.php:526
+#: widgets/Image_HotSpots.php:238 widgets/List_item.php:208
+#: widgets/Single_doc.php:437 widgets/Single_doc.php:470
+msgid "Color"
+msgstr ""
+
+#: widgets/Alerts_box.php:360
+msgid "Ribbon Color"
+msgstr ""
+
+#: widgets/Button.php:29
+msgid "Docy Button"
+msgstr ""
+
+#: widgets/Button.php:55 widgets/Call_to_action.php:120
+#: widgets/Nav_Menu.php:149 widgets/Subscribe.php:102 wpml/WPML_Fields.php:52
+msgid "Button Label"
+msgstr ""
+
+#: widgets/Button.php:65 widgets/List_item.php:122 widgets/Search_Form.php:150
+msgid "Alignment"
+msgstr ""
+
+#: widgets/Button.php:69 widgets/List_item.php:126 widgets/Search_Form.php:154
+msgid "Left"
+msgstr ""
+
+#: widgets/Button.php:73 widgets/List_item.php:130 widgets/Search_Form.php:158
+msgid "Center"
+msgstr ""
+
+#: widgets/Button.php:77 widgets/List_item.php:134 widgets/Search_Form.php:162
+msgid "Right"
+msgstr ""
+
+#: widgets/Button.php:81
+msgid "Justified"
+msgstr ""
+
+#: widgets/Button.php:93 widgets/Button.php:192 widgets/Nav_Menu.php:184
+msgid "Button Style"
+msgstr ""
+
+#: widgets/Button.php:96
+msgid "Text with Icon Button"
+msgstr ""
+
+#: widgets/Button.php:97
+msgid "Normal Button"
+msgstr ""
+
+#: widgets/Button.php:106
+msgid "Icon Type"
+msgstr ""
+
+#: widgets/Button.php:109
+msgid " Font-Awesome"
+msgstr ""
+
+#: widgets/Button.php:110 widgets/Button.php:131
+msgid "Elegant Icon"
+msgstr ""
+
+#: widgets/Button.php:111 widgets/Button.php:159
+msgid "Flaticon"
+msgstr ""
+
+#: widgets/Button.php:145
+msgid "Themify Icon"
+msgstr ""
+
+#: widgets/Button.php:178 widgets/Nav_Menu.php:167
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/Button.php:210 widgets/Call_to_action.php:147
+#: widgets/Data_Table.php:479 widgets/Data_Table.php:645
+#: widgets/Data_Table.php:815 widgets/Data_Table.php:888
+#: widgets/Nav_Menu.php:202 widgets/Process_Tabs.php:114
+#: widgets/Subscribe.php:192 widgets/Tabs.php:198
+msgid "Normal"
+msgstr ""
+
+#: widgets/Button.php:242 widgets/Call_to_action.php:178
+#: widgets/Data_Table.php:521 widgets/Data_Table.php:734
+#: widgets/Data_Table.php:832 widgets/Data_Table.php:906
+#: widgets/List_item.php:158 widgets/Nav_Menu.php:234 widgets/Subscribe.php:222
+msgid "Hover"
+msgstr ""
+
+#: widgets/Button.php:298 widgets/Code.php:345 widgets/Image_HotSpots.php:272
+#: widgets/List_item.php:326 widgets/Nav_Menu.php:290
+#: widgets/Process_Tabs.php:195 widgets/Subscribe.php:337
+#: widgets/inc/hero/controls/style_keywords.php:83
+#: widgets/inc/search-form/controls/style.php:58
+#: widgets/inc/search-form/controls/style.php:229
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/Button.php:335
+msgid "Button Icon"
+msgstr ""
+
+#: widgets/Button.php:343 widgets/Data_Table.php:569 widgets/Data_Table.php:865
+#: widgets/Tabs.php:156
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/Button.php:360
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/Call_to_action.php:26
+msgid "Call to Action"
+msgstr ""
+
+#: widgets/Call_to_action.php:47 widgets/Faq.php:45 widgets/Forum_topics.php:52
+#: widgets/Forums.php:45 widgets/Hero.php:54 widgets/Single_forum.php:45
+#: widgets/Testimonial.php:53
+msgid "Preset Skins"
+msgstr ""
+
+#: widgets/Call_to_action.php:53
+msgid "Select Style"
+msgstr ""
+
+#: widgets/Call_to_action.php:71
+msgid "Contents"
+msgstr ""
+
+#: widgets/Call_to_action.php:85 widgets/Hero.php:98 widgets/Single_doc.php:107
+#: widgets/Subscribe.php:65
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/Call_to_action.php:94 widgets/Cheatsheet.php:85
+#: widgets/Data_Table.php:247 widgets/Data_Table.php:347
+#: widgets/Data_Table.php:361 widgets/Image_HotSpots.php:131
+#: widgets/Single_doc.php:421 widgets/Single_doc.php:463 widgets/Tabs.php:86
+#: widgets/Tabs.php:108 widgets/Tabs.php:263
+msgid "Content"
+msgstr ""
+
+#: widgets/Call_to_action.php:102
+msgid "Featured Image"
+msgstr ""
+
+#: widgets/Call_to_action.php:114 widgets/Nav_Menu.php:139
+#: widgets/Search_Form.php:70 widgets/Subscribe.php:165
+#: widgets/inc/search-form/controls/style.php:101
+msgid "Button"
+msgstr ""
+
+#: widgets/Call_to_action.php:129 widgets/Single_doc.php:250
+msgid "Button URL"
+msgstr ""
+
+#: widgets/Call_to_action.php:251 widgets/Forum_topics.php:194
+#: widgets/Info_box.php:159 widgets/Subscribe.php:317
+#: widgets/Testimonial.php:286 widgets/Video_playlist.php:123
+msgid "Style Section"
+msgstr ""
+
+#: widgets/Call_to_action.php:270 widgets/inc/hero/controls/4_bg_obj.php:55
+msgid "Background Image"
+msgstr ""
+
+#: widgets/Changelogs.php:41 widgets/Docs.php:89 widgets/Faq.php:90
+#: widgets/Forum_topics.php:80 widgets/Forums.php:73
+#: widgets/Single_forum.php:89
+msgid "Filter Options"
+msgstr ""
+
+#: widgets/Changelogs.php:47
+msgid "Show Changelogs"
+msgstr ""
+
+#: widgets/Changelogs.php:65 wp-widgets/Topic_details.php:91
+msgid "Category"
+msgstr ""
+
+#: widgets/Changelogs.php:74 widgets/Docs.php:187 widgets/Faq.php:122
+#: widgets/Forum_topics.php:120 widgets/Forums.php:99
+#: widgets/Single_doc.php:191 widgets/Single_forum.php:113
+msgid "Order"
+msgstr ""
+
+#: widgets/Changelogs.php:86
+msgid "Order By"
+msgstr ""
+
+#: widgets/Cheatsheet.php:68
+msgid "Serial Number"
+msgstr ""
+
+#: widgets/Cheatsheet.php:76
+msgid "Top Text"
+msgstr ""
+
+#: widgets/Cheatsheet.php:93
+msgid "Cheat Sheet List"
+msgstr ""
+
+#: widgets/Cheatsheet.php:103
+msgid "Extended Collapse"
+msgstr ""
+
+#: widgets/Cheatsheet.php:156
+msgid "Cheat Sheet Item"
+msgstr ""
+
+#: widgets/Cheatsheet.php:163
+msgid "Number Color"
+msgstr ""
+
+#: widgets/Cheatsheet.php:176
+msgid "Number Typography"
+msgstr ""
+
+#: widgets/Cheatsheet.php:183
+msgid "Top Text Color"
+msgstr ""
+
+#: widgets/Cheatsheet.php:196
+msgid "Top Text Typography"
+msgstr ""
+
+#: widgets/Cheatsheet.php:203
+msgid "Bottom Text Color"
+msgstr ""
+
+#: widgets/Cheatsheet.php:216
+msgid "Bottom Text Typography"
+msgstr ""
+
+#: widgets/Cheatsheet.php:228 widgets/Hero.php:416 widgets/List_item.php:220
+#: widgets/Single_doc.php:305 widgets/Testimonial.php:295
+msgid "Background"
+msgstr ""
+
+#: widgets/Code.php:23
+msgid "Code Syntax Highlighter"
+msgstr ""
+
+#: widgets/Code.php:48
+msgid "HTML Markup"
+msgstr ""
+
+#: widgets/Code.php:49
+msgid "CSS"
+msgstr ""
+
+#: widgets/Code.php:50
+msgid "Clike"
+msgstr ""
+
+#: widgets/Code.php:51
+msgid "JavaScript"
+msgstr ""
+
+#: widgets/Code.php:52
+msgid "ABAP"
+msgstr ""
+
+#: widgets/Code.php:53
+msgid "Augmented Backus–Naur form"
+msgstr ""
+
+#: widgets/Code.php:54
+msgid "ActionScript"
+msgstr ""
+
+#: widgets/Code.php:55
+msgid "Ada"
+msgstr ""
+
+#: widgets/Code.php:56
+msgid "Apache Configuration"
+msgstr ""
+
+#: widgets/Code.php:57
+msgid "APL"
+msgstr ""
+
+#: widgets/Code.php:58
+msgid "AppleScript"
+msgstr ""
+
+#: widgets/Code.php:59
+msgid "Arduino"
+msgstr ""
+
+#: widgets/Code.php:60
+msgid "ARFF"
+msgstr ""
+
+#: widgets/Code.php:61
+msgid "AsciiDoc"
+msgstr ""
+
+#: widgets/Code.php:62
+msgid "6502 Assembly"
+msgstr ""
+
+#: widgets/Code.php:63
+msgid "ASP.NET (C#)"
+msgstr ""
+
+#: widgets/Code.php:64
+msgid "AutoHotkey"
+msgstr ""
+
+#: widgets/Code.php:65
+msgid "Autoit"
+msgstr ""
+
+#: widgets/Code.php:66
+msgid "Bash"
+msgstr ""
+
+#: widgets/Code.php:67
+msgid "BASIC"
+msgstr ""
+
+#: widgets/Code.php:68
+msgid "Batch"
+msgstr ""
+
+#: widgets/Code.php:69
+msgid "Bison"
+msgstr ""
+
+#: widgets/Code.php:70
+msgid "Bnf"
+msgstr ""
+
+#: widgets/Code.php:71
+msgid "Brainfuck"
+msgstr ""
+
+#: widgets/Code.php:72
+msgid "Bro"
+msgstr ""
+
+#: widgets/Code.php:73
+msgid "C"
+msgstr ""
+
+#: widgets/Code.php:74
+msgid "Csharp"
+msgstr ""
+
+#: widgets/Code.php:75
+msgid "Cpp"
+msgstr ""
+
+#: widgets/Code.php:76
+msgid "Cil"
+msgstr ""
+
+#: widgets/Code.php:77
+msgid "Coffeescript"
+msgstr ""
+
+#: widgets/Code.php:78
+msgid "Cmake"
+msgstr ""
+
+#: widgets/Code.php:79
+msgid "Clojure"
+msgstr ""
+
+#: widgets/Code.php:80
+msgid "Crystal"
+msgstr ""
+
+#: widgets/Code.php:81
+msgid "Csp"
+msgstr ""
+
+#: widgets/Code.php:82
+msgid "Css-extras"
+msgstr ""
+
+#: widgets/Code.php:83
+msgid "D"
+msgstr ""
+
+#: widgets/Code.php:84
+msgid "Dart"
+msgstr ""
+
+#: widgets/Code.php:85
+msgid "Diff"
+msgstr ""
+
+#: widgets/Code.php:86
+msgid "Django"
+msgstr ""
+
+#: widgets/Code.php:87
+msgid "Dns-zone-file"
+msgstr ""
+
+#: widgets/Code.php:88
+msgid "Docker"
+msgstr ""
+
+#: widgets/Code.php:89
+msgid "Ebnf"
+msgstr ""
+
+#: widgets/Code.php:90
+msgid "Eiffel"
+msgstr ""
+
+#: widgets/Code.php:91
+msgid "Ejs"
+msgstr ""
+
+#: widgets/Code.php:92
+msgid "Elixir"
+msgstr ""
+
+#: widgets/Code.php:93
+msgid "Elm"
+msgstr ""
+
+#: widgets/Code.php:94
+msgid "Erb"
+msgstr ""
+
+#: widgets/Code.php:95
+msgid "Erlang"
+msgstr ""
+
+#: widgets/Code.php:96
+msgid "Fsharp"
+msgstr ""
+
+#: widgets/Code.php:97
+msgid "Firestore-security-rules"
+msgstr ""
+
+#: widgets/Code.php:98
+msgid "Flow"
+msgstr ""
+
+#: widgets/Code.php:99
+msgid "Fortran"
+msgstr ""
+
+#: widgets/Code.php:100
+msgid "Gcode"
+msgstr ""
+
+#: widgets/Code.php:101
+msgid "Gdscript"
+msgstr ""
+
+#: widgets/Code.php:102
+msgid "Gedcom"
+msgstr ""
+
+#: widgets/Code.php:103
+msgid "Gherkin"
+msgstr ""
+
+#: widgets/Code.php:104
+msgid "Git"
+msgstr ""
+
+#: widgets/Code.php:105
+msgid "Glsl"
+msgstr ""
+
+#: widgets/Code.php:106
+msgid "Gml"
+msgstr ""
+
+#: widgets/Code.php:107
+msgid "Go"
+msgstr ""
+
+#: widgets/Code.php:108
+msgid "Graphql"
+msgstr ""
+
+#: widgets/Code.php:109
+msgid "Groovy"
+msgstr ""
+
+#: widgets/Code.php:110
+msgid "Haml"
+msgstr ""
+
+#: widgets/Code.php:111
+msgid "Handlebars"
+msgstr ""
+
+#: widgets/Code.php:112
+msgid "Haskell"
+msgstr ""
+
+#: widgets/Code.php:113
+msgid "Haxe"
+msgstr ""
+
+#: widgets/Code.php:114
+msgid "Hcl"
+msgstr ""
+
+#: widgets/Code.php:115
+msgid "Http"
+msgstr ""
+
+#: widgets/Code.php:116
+msgid "Hpkp"
+msgstr ""
+
+#: widgets/Code.php:117
+msgid "Hsts"
+msgstr ""
+
+#: widgets/Code.php:118
+msgid "Ichigojam"
+msgstr ""
+
+#: widgets/Code.php:120
+msgid "Inform7"
+msgstr ""
+
+#: widgets/Code.php:121
+msgid "Ini"
+msgstr ""
+
+#: widgets/Code.php:122
+msgid "Io"
+msgstr ""
+
+#: widgets/Code.php:123
+msgid "J"
+msgstr ""
+
+#: widgets/Code.php:124
+msgid "Java"
+msgstr ""
+
+#: widgets/Code.php:125
+msgid "Javadoc"
+msgstr ""
+
+#: widgets/Code.php:126
+msgid "Javadoclike"
+msgstr ""
+
+#: widgets/Code.php:127
+msgid "Javastacktrace"
+msgstr ""
+
+#: widgets/Code.php:128
+msgid "Jolie"
+msgstr ""
+
+#: widgets/Code.php:129
+msgid "Jq"
+msgstr ""
+
+#: widgets/Code.php:130
+msgid "Jsdoc"
+msgstr ""
+
+#: widgets/Code.php:131
+msgid "Js-extras"
+msgstr ""
+
+#: widgets/Code.php:132
+msgid "Js-templates"
+msgstr ""
+
+#: widgets/Code.php:133
+msgid "Json"
+msgstr ""
+
+#: widgets/Code.php:134
+msgid "Jsonp"
+msgstr ""
+
+#: widgets/Code.php:135
+msgid "Json5"
+msgstr ""
+
+#: widgets/Code.php:136
+msgid "Julia"
+msgstr ""
+
+#: widgets/Code.php:137
+msgid "Keyman"
+msgstr ""
+
+#: widgets/Code.php:138
+msgid "Kotlin"
+msgstr ""
+
+#: widgets/Code.php:139
+msgid "Latex"
+msgstr ""
+
+#: widgets/Code.php:140
+msgid "Less"
+msgstr ""
+
+#: widgets/Code.php:141
+msgid "Lilypond"
+msgstr ""
+
+#: widgets/Code.php:142
+msgid "Liquid"
+msgstr ""
+
+#: widgets/Code.php:143
+msgid "Lisp"
+msgstr ""
+
+#: widgets/Code.php:144
+msgid "Livescript"
+msgstr ""
+
+#: widgets/Code.php:145
+msgid "Lolcode"
+msgstr ""
+
+#: widgets/Code.php:146
+msgid "Lua"
+msgstr ""
+
+#: widgets/Code.php:147
+msgid "Makefile"
+msgstr ""
+
+#: widgets/Code.php:148
+msgid "Markdown"
+msgstr ""
+
+#: widgets/Code.php:149
+msgid "Markup-templating"
+msgstr ""
+
+#: widgets/Code.php:150
+msgid "Matlab"
+msgstr ""
+
+#: widgets/Code.php:151
+msgid "Mel"
+msgstr ""
+
+#: widgets/Code.php:152
+msgid "Mizar"
+msgstr ""
+
+#: widgets/Code.php:153
+msgid "Monkey"
+msgstr ""
+
+#: widgets/Code.php:154
+msgid "N1ql"
+msgstr ""
+
+#: widgets/Code.php:155
+msgid "N4js"
+msgstr ""
+
+#: widgets/Code.php:156
+msgid "Nand2tetris-hdl"
+msgstr ""
+
+#: widgets/Code.php:157
+msgid "Nasm"
+msgstr ""
+
+#: widgets/Code.php:158
+msgid "Nginx"
+msgstr ""
+
+#: widgets/Code.php:159
+msgid "Nim"
+msgstr ""
+
+#: widgets/Code.php:160
+msgid "Nix"
+msgstr ""
+
+#: widgets/Code.php:161
+msgid "Nsis"
+msgstr ""
+
+#: widgets/Code.php:162
+msgid "Objectivec"
+msgstr ""
+
+#: widgets/Code.php:163
+msgid "Ocaml"
+msgstr ""
+
+#: widgets/Code.php:164
+msgid "Opencl"
+msgstr ""
+
+#: widgets/Code.php:165
+msgid "Oz"
+msgstr ""
+
+#: widgets/Code.php:166
+msgid "Parigp"
+msgstr ""
+
+#: widgets/Code.php:167
+msgid "Parser"
+msgstr ""
+
+#: widgets/Code.php:168
+msgid "Pascal"
+msgstr ""
+
+#: widgets/Code.php:169
+msgid "Pascaligo"
+msgstr ""
+
+#: widgets/Code.php:170
+msgid "Pcaxis"
+msgstr ""
+
+#: widgets/Code.php:171
+msgid "Perl"
+msgstr ""
+
+#: widgets/Code.php:172
+msgid "Php"
+msgstr ""
+
+#: widgets/Code.php:173
+msgid "Phpdoc"
+msgstr ""
+
+#: widgets/Code.php:174
+msgid "Php-extras"
+msgstr ""
+
+#: widgets/Code.php:175
+msgid "Plsql"
+msgstr ""
+
+#: widgets/Code.php:176
+msgid "Powershell"
+msgstr ""
+
+#: widgets/Code.php:177
+msgid "Processing"
+msgstr ""
+
+#: widgets/Code.php:178
+msgid "Prolog"
+msgstr ""
+
+#: widgets/Code.php:179
+msgid "Properties"
+msgstr ""
+
+#: widgets/Code.php:180
+msgid "Protobuf"
+msgstr ""
+
+#: widgets/Code.php:181
+msgid "Pug"
+msgstr ""
+
+#: widgets/Code.php:182
+msgid "Puppet"
+msgstr ""
+
+#: widgets/Code.php:183
+msgid "Pure"
+msgstr ""
+
+#: widgets/Code.php:184
+msgid "Python"
+msgstr ""
+
+#: widgets/Code.php:185
+msgid "Q"
+msgstr ""
+
+#: widgets/Code.php:186
+msgid "Qore"
+msgstr ""
+
+#: widgets/Code.php:187
+msgid "R"
+msgstr ""
+
+#: widgets/Code.php:188
+msgid "Jsx"
+msgstr ""
+
+#: widgets/Code.php:189
+msgid "Tsx"
+msgstr ""
+
+#: widgets/Code.php:190
+msgid "Renpy"
+msgstr ""
+
+#: widgets/Code.php:191
+msgid "Reason"
+msgstr ""
+
+#: widgets/Code.php:192
+msgid "Regex"
+msgstr ""
+
+#: widgets/Code.php:193
+msgid "Rest"
+msgstr ""
+
+#: widgets/Code.php:194
+msgid "Rip"
+msgstr ""
+
+#: widgets/Code.php:195
+msgid "Roboconf"
+msgstr ""
+
+#: widgets/Code.php:196
+msgid "Ruby"
+msgstr ""
+
+#: widgets/Code.php:197
+msgid "Rust"
+msgstr ""
+
+#: widgets/Code.php:198
+msgid "Sas"
+msgstr ""
+
+#: widgets/Code.php:199
+msgid "Sass"
+msgstr ""
+
+#: widgets/Code.php:200
+msgid "Scss"
+msgstr ""
+
+#: widgets/Code.php:201
+msgid "Scala"
+msgstr ""
+
+#: widgets/Code.php:202
+msgid "Scheme"
+msgstr ""
+
+#: widgets/Code.php:203
+msgid "Shell-session"
+msgstr ""
+
+#: widgets/Code.php:204
+msgid "Smalltalk"
+msgstr ""
+
+#: widgets/Code.php:205
+msgid "Smarty"
+msgstr ""
+
+#: widgets/Code.php:206
+msgid "Soy"
+msgstr ""
+
+#: widgets/Code.php:207
+msgid "Splunk-spl"
+msgstr ""
+
+#: widgets/Code.php:208
+msgid "Sql"
+msgstr ""
+
+#: widgets/Code.php:209
+msgid "Stylus"
+msgstr ""
+
+#: widgets/Code.php:210
+msgid "Swift"
+msgstr ""
+
+#: widgets/Code.php:211
+msgid "Tap"
+msgstr ""
+
+#: widgets/Code.php:212
+msgid "Tcl"
+msgstr ""
+
+#: widgets/Code.php:213
+msgid "Textile"
+msgstr ""
+
+#: widgets/Code.php:214
+msgid "Toml"
+msgstr ""
+
+#: widgets/Code.php:215
+msgid "Tt2"
+msgstr ""
+
+#: widgets/Code.php:216
+msgid "Turtle"
+msgstr ""
+
+#: widgets/Code.php:217
+msgid "Twig"
+msgstr ""
+
+#: widgets/Code.php:218
+msgid "Typescript"
+msgstr ""
+
+#: widgets/Code.php:219
+msgid "T4-cs"
+msgstr ""
+
+#: widgets/Code.php:220
+msgid "T4-vb"
+msgstr ""
+
+#: widgets/Code.php:221
+msgid "T4-templating"
+msgstr ""
+
+#: widgets/Code.php:222
+msgid "Vala"
+msgstr ""
+
+#: widgets/Code.php:223
+msgid "Vbnet"
+msgstr ""
+
+#: widgets/Code.php:224
+msgid "Velocity"
+msgstr ""
+
+#: widgets/Code.php:225
+msgid "Verilog"
+msgstr ""
+
+#: widgets/Code.php:226
+msgid "Vhdl"
+msgstr ""
+
+#: widgets/Code.php:227
+msgid "Vim"
+msgstr ""
+
+#: widgets/Code.php:228
+msgid "Visual-basic"
+msgstr ""
+
+#: widgets/Code.php:229
+msgid "Wasm"
+msgstr ""
+
+#: widgets/Code.php:230
+msgid "Wiki"
+msgstr ""
+
+#: widgets/Code.php:231
+msgid "Xeora"
+msgstr ""
+
+#: widgets/Code.php:232
+msgid "Xojo"
+msgstr ""
+
+#: widgets/Code.php:233
+msgid "Xquery"
+msgstr ""
+
+#: widgets/Code.php:234
+msgid "Yaml"
+msgstr ""
+
+#: widgets/Code.php:246 widgets/Code.php:286
+msgid "Source Code"
+msgstr ""
+
+#: widgets/Code.php:254
+msgid "Language Type"
+msgstr ""
+
+#: widgets/Code.php:265
+msgid "Theme"
+msgstr ""
+
+#: widgets/Code.php:271
+msgid "Coy"
+msgstr ""
+
+#: widgets/Code.php:272 widgets/Data_Table.php:77
+msgid "Dark"
+msgstr ""
+
+#: widgets/Code.php:273
+msgid "Funky"
+msgstr ""
+
+#: widgets/Code.php:274
+msgid "Okaidia"
+msgstr ""
+
+#: widgets/Code.php:275
+msgid "Solarized light"
+msgstr ""
+
+#: widgets/Code.php:276
+msgid "Tomorrow"
+msgstr ""
+
+#: widgets/Code.php:277
+msgid "Twilight"
+msgstr ""
+
+#: widgets/Code.php:290
+msgid "Source Code...."
+msgstr ""
+
+#: widgets/Code.php:312
+msgid "Height"
+msgstr ""
+
+#: widgets/Code.php:336
+msgid "Box Border"
+msgstr ""
+
+#: widgets/Code.php:370 widgets/inc/hero/controls/style_keywords.php:17
+#: widgets/inc/search-form/controls/style.php:153
+msgid "Margin"
+msgstr ""
+
+#: widgets/Counter.php:27
+msgid "Counter Fun Facts"
+msgstr ""
+
+#: widgets/Counter.php:51
+msgid "Hero"
+msgstr ""
+
+#: widgets/Counter.php:58 widgets/Hero.php:61
+msgid "Hero Style"
+msgstr ""
+
+#: widgets/Counter.php:61
+msgid "Flat UI"
+msgstr ""
+
+#: widgets/Counter.php:62
+msgid "Gradient Multicolor"
+msgstr ""
+
+#: widgets/Counter.php:74 widgets/Counter.php:100 widgets/Counter.php:161
+msgid "Counter"
+msgstr ""
+
+#: widgets/Counter.php:82 widgets/Counter.php:114
+msgid "Count Value"
+msgstr ""
+
+#: widgets/Counter.php:91 widgets/Counter.php:123
+msgid "Count Label"
+msgstr ""
+
+#: widgets/Counter.php:132 widgets/Info_box.php:78
+msgid "Icon Image"
+msgstr ""
+
+#: widgets/Counter.php:139 widgets/Counter.php:244
+msgid "Count Label Color"
+msgstr ""
+
+#: widgets/Counter.php:150
+msgid "Icon Shadow Color"
+msgstr ""
+
+#: widgets/Counter.php:182
+msgid "Counter Style"
+msgstr ""
+
+#: widgets/Counter.php:189 widgets/Hero.php:384 widgets/Testimonial.php:303
+#: widgets/Video_playlist.php:130
+msgid "Section padding"
+msgstr ""
+
+#: widgets/Counter.php:224
+msgid "Count Text Color"
+msgstr ""
+
+#: widgets/Counter.php:236 widgets/Counter.php:256
+msgid "Count Text Typography"
+msgstr ""
+
+#: widgets/Data_Table.php:32
+msgid "Docy Data Table"
+msgstr ""
+
+#: widgets/Data_Table.php:65
+msgid "General"
+msgstr ""
+
+#: widgets/Data_Table.php:72
+msgid "Table Style"
+msgstr ""
+
+#: widgets/Data_Table.php:76
+msgid "Basic"
+msgstr ""
+
+#: widgets/Data_Table.php:92
+msgid "Header"
+msgstr ""
+
+#: widgets/Data_Table.php:101
+msgid "Column Name"
+msgstr ""
+
+#: widgets/Data_Table.php:102
+msgid "Table Header"
+msgstr ""
+
+#: widgets/Data_Table.php:112
+msgid "Column Span"
+msgstr ""
+
+#: widgets/Data_Table.php:123
+msgid "Enable Header Icon"
+msgstr ""
+
+#: widgets/Data_Table.php:125
+msgid "yes"
+msgstr ""
+
+#: widgets/Data_Table.php:126
+msgid "no"
+msgstr ""
+
+#: widgets/Data_Table.php:135
+msgid "Header Icon Type"
+msgstr ""
+
+#: widgets/Data_Table.php:193
+msgid "Image Size(px)"
+msgstr ""
+
+#: widgets/Data_Table.php:206 widgets/Data_Table.php:392
+msgid "CSS Class"
+msgstr ""
+
+#: widgets/Data_Table.php:216 widgets/Data_Table.php:405
+msgid "CSS ID"
+msgstr ""
+
+#: widgets/Data_Table.php:256
+msgid "Row Type"
+msgstr ""
+
+#: widgets/Data_Table.php:261
+msgid "Row"
+msgstr ""
+
+#: widgets/Data_Table.php:262
+msgid "Column"
+msgstr ""
+
+#: widgets/Data_Table.php:270
+msgid "Col Span"
+msgstr ""
+
+#: widgets/Data_Table.php:272 widgets/Data_Table.php:313
+msgid "Default: 1 (optional)."
+msgstr ""
+
+#: widgets/Data_Table.php:285 widgets/Tabs.php:83
+msgid "Content Type"
+msgstr ""
+
+#: widgets/Data_Table.php:293
+msgid "Textarea"
+msgstr ""
+
+#: widgets/Data_Table.php:297
+msgid "Editor"
+msgstr ""
+
+#: widgets/Data_Table.php:311
+msgid "Row Span"
+msgstr ""
+
+#: widgets/Data_Table.php:343 widgets/Data_Table.php:358
+msgid "Cell Text"
+msgstr ""
+
+#: widgets/Data_Table.php:442
+msgid "Header Style"
+msgstr ""
+
+#: widgets/Data_Table.php:451
+msgid "Header Border Radius"
+msgstr ""
+
+#: widgets/Data_Table.php:514 widgets/Data_Table.php:549
+#: widgets/Data_Table.php:714 widgets/Image_HotSpots.php:262
+#: widgets/List_item.php:317 widgets/Single_doc.php:315 widgets/Tabs.php:272
+#: widgets/inc/search-form/controls/style.php:31
+msgid "Border"
+msgstr ""
+
+#: widgets/Data_Table.php:591
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/Data_Table.php:613
+msgid "Icon Space"
+msgstr ""
+
+#: widgets/Data_Table.php:638
+msgid "Content Style"
+msgstr ""
+
+#: widgets/Data_Table.php:650
+msgid "ODD Cell"
+msgstr ""
+
+#: widgets/Data_Table.php:658 widgets/Data_Table.php:739
+msgid "Color ( Odd Row )"
+msgstr ""
+
+#: widgets/Data_Table.php:669 widgets/Data_Table.php:750
+msgid "Background ( Odd Row )"
+msgstr ""
+
+#: widgets/Data_Table.php:680 widgets/Data_Table.php:761
+msgid "Even Cell"
+msgstr ""
+
+#: widgets/Data_Table.php:689 widgets/Data_Table.php:769
+msgid "Color ( Even Row )"
+msgstr ""
+
+#: widgets/Data_Table.php:701 widgets/Data_Table.php:781
+msgid "Background Color (Even Row)"
+msgstr ""
+
+#: widgets/Data_Table.php:805
+msgid "Link Color"
+msgstr ""
+
+#: widgets/Data_Table.php:856
+msgid "Icon Style"
+msgstr ""
+
+#: widgets/Data_Table.php:893 widgets/Data_Table.php:911
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/Docs.php:49 widgets/Single_doc.php:46 widgets/Video_playlist.php:44
+msgid "Preset Skin"
+msgstr ""
+
+#: widgets/Docs.php:55 widgets/Single_doc.php:52
+msgid "Skins"
+msgstr ""
+
+#: widgets/Docs.php:59
+msgid "Tabbed with doc lists"
+msgstr ""
+
+#: widgets/Docs.php:63
+msgid "Flat tabbed docs"
+msgstr ""
+
+#: widgets/Docs.php:67
+msgid "Boxed Style"
+msgstr ""
+
+#: widgets/Docs.php:71
+msgid "Book Chapters / Tutorials"
+msgstr ""
+
+#: widgets/Docs.php:75
+msgid "List Style"
+msgstr ""
+
+#: widgets/Docs.php:95
+msgid "ID Format"
+msgstr ""
+
+#: widgets/Docs.php:101
+msgid "If the slug ID does not work then you should pick the number ID."
+msgstr ""
+
+#: widgets/Docs.php:111
+msgid "Exclude Docs"
+msgstr ""
+
+#: widgets/Docs.php:120
+msgid "Show Section Count"
+msgstr ""
+
+#: widgets/Docs.php:121
+msgid ""
+"The number of sections to show under every documentation tab. Leave empty or "
+"give value -1 to show all sections."
+msgstr ""
+
+#: widgets/Docs.php:134
+msgid "Active Doc"
+msgstr ""
+
+#: widgets/Docs.php:135
+msgid "Select the active Doc tab by default."
+msgstr ""
+
+#: widgets/Docs.php:147
+msgid "Show Doc Item Count"
+msgstr ""
+
+#: widgets/Docs.php:148
+msgid ""
+"The number of doc items to under every doc sections. Leave empty or give "
+"value -1 to show all sections."
+msgstr ""
+
+#: widgets/Docs.php:161
+msgid "Main Doc Excerpt"
+msgstr ""
+
+#: widgets/Docs.php:162
+msgid ""
+"Excerpt word limit of main documentation. If the excerpt got empty, this "
+"will get from the post content."
+msgstr ""
+
+#: widgets/Docs.php:174
+msgid "Doc Section Excerpt"
+msgstr ""
+
+#: widgets/Docs.php:175 widgets/Single_doc.php:168
+msgid ""
+"Excerpt word limit of the documentation sections. If the excerpt got empty, "
+"this will get from the post content."
+msgstr ""
+
+#: widgets/Docs.php:203
+msgid "Custom Order"
+msgstr ""
+
+#: widgets/Docs.php:204
+msgid "Order the Doc tabs as you want."
+msgstr ""
+
+#: widgets/Docs.php:220 widgets/Single_doc.php:130 widgets/Single_doc.php:136
+msgid "Doc"
+msgstr ""
+
+#: widgets/Docs.php:230 widgets/Process_Tabs.php:87 widgets/Tabs.php:124
+msgid "Tabs Items"
+msgstr ""
+
+#: widgets/Docs.php:246
+msgid "Labels"
+msgstr ""
+
+#: widgets/Docs.php:256
+msgid "Tab Title First Word"
+msgstr ""
+
+#: widgets/Docs.php:257
+msgid "Show the first word of the doc in Tab Title."
+msgstr ""
+
+#: widgets/Docs.php:265 widgets/Forums.php:120 widgets/Single_forum.php:135
+msgid "Read More Text"
+msgstr ""
+
+#: widgets/Docs.php:278
+msgid "Book Chapters / Tutorials Prefix"
+msgstr ""
+
+#: widgets/Faq.php:51 widgets/Forum_topics.php:59 widgets/Video_playlist.php:50
+msgid "Skin"
+msgstr ""
+
+#: widgets/Faq.php:55
+msgid "Top - Tabbed"
+msgstr ""
+
+#: widgets/Faq.php:59
+msgid "Left Side - Box Tabbed"
+msgstr ""
+
+#: widgets/Faq.php:63
+msgid "Left Side - Tag Style Tab"
+msgstr ""
+
+#: widgets/Faq.php:75
+msgid "Navigation Title"
+msgstr ""
+
+#: widgets/Faq.php:96
+msgid "Category Order"
+msgstr ""
+
+#: widgets/Faq.php:108
+msgid "Category Order by"
+msgstr ""
+
+#: widgets/Forum_topics.php:68
+msgid "List with excerpt"
+msgstr ""
+
+#: widgets/Forum_topics.php:86
+msgid "Show Topics"
+msgstr ""
+
+#: widgets/Forum_topics.php:95
+msgid "Author Avatars"
+msgstr ""
+
+#: widgets/Forum_topics.php:107
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/Forum_topics.php:108
+msgid "Enter the excerpt length in words count."
+msgstr ""
+
+#: widgets/Forum_topics.php:136 widgets/Process_Tabs.php:74
+msgid "Bottom Content"
+msgstr ""
+
+#: widgets/Forum_topics.php:142 widgets/Quote.php:93 widgets/Quote.php:305
+msgid "Bottom Text"
+msgstr ""
+
+#: widgets/Forum_topics.php:154
+msgid "Style Items"
+msgstr ""
+
+#: widgets/Forum_topics.php:162
+msgid "Spacing"
+msgstr ""
+
+#: widgets/Forum_topics.php:163
+msgid "Spacing between the topic items"
+msgstr ""
+
+#: widgets/Forum_topics.php:201 widgets/Subscribe.php:293
+#: widgets/inc/hero/controls/1_bg_shapes.php:71
+msgid "Shape 01"
+msgstr ""
+
+#: widgets/Forum_topics.php:214 widgets/Subscribe.php:303
+#: widgets/inc/hero/controls/1_bg_shapes.php:81
+msgid "Shape 02"
+msgstr ""
+
+#: widgets/Forum_topics.php:228
+msgid "Section Padding"
+msgstr ""
+
+#: widgets/Forums.php:52 widgets/Single_forum.php:52
+msgid "Forums Style"
+msgstr ""
+
+#: widgets/Forums.php:57
+msgid "01 : Forums"
+msgstr ""
+
+#: widgets/Forums.php:61
+msgid "02 : Forums"
+msgstr ""
+
+#: widgets/Forums.php:79
+msgid "Show Forums"
+msgstr ""
+
+#: widgets/Forums.php:80
+msgid ""
+"Show the forums count at the initial view. Default is 5 forums in a row."
+msgstr ""
+
+#: widgets/Forums.php:89
+msgid "Hidden Forums"
+msgstr ""
+
+#: widgets/Forums.php:90
+msgid "Hidden forums will show on clicking on the More button."
+msgstr ""
+
+#: widgets/Forums.php:114
+msgid "Read More Options"
+msgstr ""
+
+#: widgets/Forums.php:129
+msgid "Read Less Text"
+msgstr ""
+
+#: widgets/Forums.php:142
+msgid "Shape Images"
+msgstr ""
+
+#: widgets/Forums.php:149 widgets/Single_doc.php:521
+#: widgets/Testimonial.php:133
+msgid "Shape"
+msgstr ""
+
+#: widgets/Hero.php:64 widgets/Single_doc.php:60
+msgid "Creative"
+msgstr ""
+
+#: widgets/Hero.php:65
+msgid "Classic"
+msgstr ""
+
+#: widgets/Hero.php:66
+msgid "Minimal"
+msgstr ""
+
+#: widgets/Hero.php:67
+msgid "Cool Theme"
+msgstr ""
+
+#: widgets/Hero.php:68
+msgid "Light Theme"
+msgstr ""
+
+#: widgets/Hero.php:69
+msgid "Community"
+msgstr ""
+
+#: widgets/Hero.php:108 widgets/Single_doc.php:118
+msgid "Subtitle Text"
+msgstr ""
+
+#: widgets/Hero.php:122
+msgid "Search Form"
+msgstr ""
+
+#: widgets/Hero.php:129 widgets/Search_Form.php:60
+msgid "Placeholder"
+msgstr ""
+
+#: widgets/Hero.php:139
+msgid "Submit Button Label"
+msgstr ""
+
+#: widgets/Hero.php:151
+msgid "Post Types Dropdown"
+msgstr ""
+
+#: widgets/Hero.php:164 widgets/Search_Form.php:120 widgets/Search_Form.php:126
+#: widgets/inc/search-form/controls/style.php:146
+msgid "Keywords"
+msgstr ""
+
+#: widgets/Hero.php:175 widgets/Search_Form.php:137
+msgid "Keywords Label"
+msgstr ""
+
+#: widgets/Hero.php:198 widgets/Search_Form.php:183
+msgid "Repeater List"
+msgstr ""
+
+#: widgets/Hero.php:203 widgets/Search_Form.php:188
+msgid "Keyword #1"
+msgstr ""
+
+#: widgets/Hero.php:206 widgets/Search_Form.php:191
+msgid "Keyword #2"
+msgstr ""
+
+#: widgets/Hero.php:231
+msgid "Peoples Images"
+msgstr ""
+
+#: widgets/Hero.php:242
+msgid "People Image"
+msgstr ""
+
+#: widgets/Hero.php:250
+msgid "Horizontal Position"
+msgstr ""
+
+#: widgets/Hero.php:268
+msgid "Vertical Position"
+msgstr ""
+
+#: widgets/Hero.php:285
+msgid "Peoples"
+msgstr ""
+
+#: widgets/Hero.php:305
+msgid "Title Color"
+msgstr ""
+
+#: widgets/Hero.php:316
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/Hero.php:324
+msgid "Subtitle Color"
+msgstr ""
+
+#: widgets/Hero.php:377 widgets/List_item.php:286
+msgid "Section Style"
+msgstr ""
+
+#: widgets/Hero.php:397
+msgid "Section Height"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:35
+msgid "Docy Image Hotspots"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:95
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:106
+msgid "Open Hotspots in Lightbox"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:123
+msgid "Hotspots"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:144 widgets/Search_Form.php:91
+msgid "Position"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:149
+msgid "Left Position"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:167
+msgid "Top Position"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:209
+msgid "Hotspot"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:310
+msgid "Tooltip"
+msgstr ""
+
+#: widgets/Image_HotSpots.php:336
+msgid "Width"
+msgstr ""
+
+#: widgets/Info_box.php:25
+msgid "Info Box"
+msgstr ""
+
+#: widgets/Info_box.php:61
+msgid "Link Title"
+msgstr ""
+
+#: widgets/Info_box.php:70
+msgid "Link URL"
+msgstr ""
+
+#: widgets/Info_box.php:124
+msgid "Style Link"
+msgstr ""
+
+#: widgets/Info_box.php:143
+msgid "Hover Text Color"
+msgstr ""
+
+#: widgets/Info_box.php:167
+msgid "Border top Color"
+msgstr ""
+
+#: widgets/Info_box.php:168
+msgid "Border top color on hover"
+msgstr ""
+
+#: widgets/List_item.php:27
+msgid "Docy List Item"
+msgstr ""
+
+#: widgets/List_item.php:46
+msgid "Icon List"
+msgstr ""
+
+#: widgets/List_item.php:52
+msgid "Order Type"
+msgstr ""
+
+#: widgets/List_item.php:55
+msgid "Unordered List"
+msgstr ""
+
+#: widgets/List_item.php:56
+msgid "Ordered List"
+msgstr ""
+
+#: widgets/List_item.php:69 widgets/List_item.php:70
+msgid "List Item"
+msgstr ""
+
+#: widgets/List_item.php:106
+msgid "Space Between"
+msgstr ""
+
+#: widgets/List_item.php:170
+msgid "Text Indent"
+msgstr ""
+
+#: widgets/List_item.php:248
+msgid "Background Size"
+msgstr ""
+
+#: widgets/Nav_Menu.php:33
+msgid "Docy Navigation Menu"
+msgstr ""
+
+#: widgets/Nav_Menu.php:49
+msgid "Menu Options"
+msgstr ""
+
+#: widgets/Nav_Menu.php:66
+#, php-format
+msgid "Go to the %1$sMenus screen%2$s to manage your menus. "
+msgstr ""
+
+#: widgets/Nav_Menu.php:77
+msgid "There are no menus in your site."
+msgstr ""
+
+#. translators: 1: Link open tag, 2: Link closing tag.
+#: widgets/Nav_Menu.php:80
+#, php-format
+msgid "Go to the %1$sMenus screen%2$s to create one."
+msgstr ""
+
+#: widgets/Nav_Menu.php:92
+msgid "Menu Layout"
+msgstr ""
+
+#: widgets/Nav_Menu.php:104
+msgid "Menu Width"
+msgstr ""
+
+#: widgets/Nav_Menu.php:133
+msgid "Button Options"
+msgstr ""
+
+#: widgets/Nav_Menu.php:348
+msgid "Toggle navigation"
+msgstr ""
+
+#: widgets/Process_Tabs.php:27
+msgid "Process Tabs"
+msgstr ""
+
+#: widgets/Process_Tabs.php:44
+msgid "Tabs"
+msgstr ""
+
+#: widgets/Process_Tabs.php:53 widgets/Process_Tabs.php:55
+#: widgets/Process_Tabs.php:56 widgets/Tabs.php:72 widgets/Tabs.php:74
+#: widgets/Tabs.php:75
+msgid "Tab Title"
+msgstr ""
+
+#: widgets/Process_Tabs.php:64
+msgid "Top Content"
+msgstr ""
+
+#: widgets/Process_Tabs.php:65 widgets/Process_Tabs.php:75
+#: widgets/Process_Tabs.php:76 widgets/Tabs.php:109 widgets/Tabs.php:110
+msgid "Tab Content"
+msgstr ""
+
+#: widgets/Process_Tabs.php:101 widgets/Tabs.php:138
+msgid "Tabs Style"
+msgstr ""
+
+#: widgets/Process_Tabs.php:120 widgets/Process_Tabs.php:160
+#: widgets/Tabs.php:204 widgets/Tabs.php:234
+msgid "Title Font Color"
+msgstr ""
+
+#: widgets/Process_Tabs.php:130 widgets/Process_Tabs.php:170
+msgid "Subtitle Font Color"
+msgstr ""
+
+#: widgets/Process_Tabs.php:154 widgets/Tabs.php:228
+msgid "Active"
+msgstr ""
+
+#: widgets/Process_Tabs.php:202
+msgid "Radius"
+msgstr ""
+
+#: widgets/Quote.php:25
+msgid "Quote"
+msgstr ""
+
+#: widgets/Quote.php:48
+msgid "Quote Texts"
+msgstr ""
+
+#: widgets/Quote.php:66 widgets/Quote.php:204
+msgid "Quote Text"
+msgstr ""
+
+#: widgets/Quote.php:75 widgets/Quote.php:238
+msgid "Quote Author Name"
+msgstr ""
+
+#: widgets/Quote.php:84 widgets/Quote.php:272
+msgid "Quote Author Designation"
+msgstr ""
+
+#: widgets/Quote.php:103
+msgid "Quote Icon Top"
+msgstr ""
+
+#: widgets/Quote.php:115
+msgid "Quote Icon Bottom"
+msgstr ""
+
+#: widgets/Quote.php:131
+msgid "Right Side"
+msgstr ""
+
+#: widgets/Quote.php:138
+msgid "Right Side Image"
+msgstr ""
+
+#: widgets/Quote.php:146
+msgid "Background Circle Color"
+msgstr ""
+
+#: widgets/Quote.php:154
+msgid "Background Circle Color 02"
+msgstr ""
+
+#: widgets/Quote.php:349
+msgid "quote icon left"
+msgstr ""
+
+#: widgets/Search_Form.php:28
+msgid "Docy Search Form"
+msgstr ""
+
+#: widgets/Search_Form.php:53 widgets/Subscribe.php:125
+#: widgets/inc/search-form/controls/style.php:10
+msgid "Form"
+msgstr ""
+
+#: widgets/Search_Form.php:79
+msgid "Submit Button Icon"
+msgstr ""
+
+#: widgets/Single_doc.php:56
+msgid "Light"
+msgstr ""
+
+#: widgets/Single_doc.php:64 widgets/Single_doc.php:293
+msgid "Box"
+msgstr ""
+
+#: widgets/Single_doc.php:68
+msgid "Topic Boxes"
+msgstr ""
+
+#: widgets/Single_doc.php:72
+msgid "Docs Boxes"
+msgstr ""
+
+#: widgets/Single_doc.php:144 widgets/Single_doc.php:154
+msgid "Sections"
+msgstr ""
+
+#: widgets/Single_doc.php:145 widgets/Single_doc.php:155
+msgid "Number of section to show"
+msgstr ""
+
+#: widgets/Single_doc.php:167
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/Single_doc.php:180
+msgid "Articles"
+msgstr ""
+
+#: widgets/Single_doc.php:181
+msgid "Number of articles to show under every sections"
+msgstr ""
+
+#: widgets/Single_doc.php:207
+msgid "Buttons"
+msgstr ""
+
+#: widgets/Single_doc.php:216
+msgid "Read More Button"
+msgstr ""
+
+#: widgets/Single_doc.php:225
+msgid "Section Button"
+msgstr ""
+
+#: widgets/Single_doc.php:237
+msgid "Button Text"
+msgstr ""
+
+#: widgets/Single_doc.php:262
+msgid "Show More Button"
+msgstr ""
+
+#: widgets/Single_doc.php:274
+msgid "Show Less Text"
+msgstr ""
+
+#: widgets/Single_doc.php:379
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/Single_doc.php:502 widgets/Single_doc.php:512
+#: widgets/inc/hero/controls/1_bg_shapes.php:10
+#: widgets/inc/hero/controls/1_bg_shapes.php:20
+msgid "Background Objects"
+msgstr ""
+
+#: widgets/Single_doc.php:522
+msgid "The background shape should be transparent png or svg image."
+msgstr ""
+
+#: widgets/Single_doc.php:535
+msgid "Round Objects 01"
+msgstr ""
+
+#: widgets/Single_doc.php:545
+msgid "Round 01 Color"
+msgstr ""
+
+#: widgets/Single_doc.php:559
+msgid "Round Objects 02"
+msgstr ""
+
+#: widgets/Single_doc.php:569
+msgid "Round 02 Color"
+msgstr ""
+
+#: widgets/Single_forum.php:57
+msgid "01 : Single Forum With Topics"
+msgstr ""
+
+#: widgets/Single_forum.php:61
+msgid "02 : Single Forum"
+msgstr ""
+
+#: widgets/Single_forum.php:72
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/Single_forum.php:78
+msgid "Custom Cover Image"
+msgstr ""
+
+#: widgets/Single_forum.php:80
+msgid "If this is not set, the featured image will be used by default"
+msgstr ""
+
+#: widgets/Single_forum.php:95
+msgid "Select Forum"
+msgstr ""
+
+#: widgets/Single_forum.php:104
+msgid "Maximum number of topics."
+msgstr ""
+
+#: widgets/Single_forum.php:125
+msgid "Number of Words"
+msgstr ""
+
+#: widgets/Single_forum.php:127
+msgid "Number of words to show as forum content"
+msgstr ""
+
+#: widgets/Single_forum.php:138
+msgid "View All"
+msgstr ""
+
+#: widgets/Single_forum.php:147
+msgid "Single Forum Style"
+msgstr ""
+
+#: widgets/Subscribe.php:27
+msgid "Subscribe Form"
+msgstr ""
+
+#: widgets/Subscribe.php:78
+msgid "Form Settings"
+msgstr ""
+
+#: widgets/Subscribe.php:84
+msgid "Email Placeholder"
+msgstr ""
+
+#: widgets/Subscribe.php:93
+msgid "Action URL"
+msgstr ""
+
+#: widgets/Subscribe.php:94
+msgid ""
+"Enter here your MailChimp action URL. <a href=\"https://goo.gl/k5a2tA\" "
+"target=\"_blank\"> How to </a>"
+msgstr ""
+
+#: widgets/Subscribe.php:111
+msgid "Form Bottom Content"
+msgstr ""
+
+#: widgets/Subscribe.php:133 widgets/Subscribe.php:174
+msgid "Input Radius"
+msgstr ""
+
+#: widgets/Subscribe.php:144
+msgid "Input Background Color"
+msgstr ""
+
+#: widgets/Subscribe.php:154
+msgid "Input Icon Color"
+msgstr ""
+
+#: widgets/Subscribe.php:286 widgets/inc/hero/controls/1_bg_shapes.php:61
+msgid "Shapes"
+msgstr ""
+
+#: widgets/Tabs.php:25 widgets/Tabs.php:42
+msgid "Docy Tabs"
+msgstr ""
+
+#: widgets/Tabs.php:49
+msgid "Preset Tab Style"
+msgstr ""
+
+#: widgets/Tabs.php:52
+msgid "Classic Default"
+msgstr ""
+
+#: widgets/Tabs.php:53
+msgid "Sticky Tab"
+msgstr ""
+
+#: widgets/Tabs.php:87
+msgid "Saved Templates"
+msgstr ""
+
+#: widgets/Tabs.php:96
+msgid "Choose Template"
+msgstr ""
+
+#: widgets/Tabs.php:244
+msgid "Border Top Color"
+msgstr ""
+
+#: widgets/Testimonial.php:27
+msgid "Testimonial (Docy)"
+msgstr ""
+
+#: widgets/Testimonial.php:60 widgets/Testimonial.php:82
+#: widgets/Testimonial.php:141 widgets/Testimonial.php:154
+#: widgets/Testimonial.php:198
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/Testimonial.php:65
+msgid "01 : Carousel Testimonials"
+msgstr ""
+
+#: widgets/Testimonial.php:69
+msgid "02 : Carousel Testimonials"
+msgstr ""
+
+#: widgets/Testimonial.php:95 widgets/Testimonial.php:167
+msgid "Mark Tony"
+msgstr ""
+
+#: widgets/Testimonial.php:102 widgets/Testimonial.php:174
+msgid "Designation"
+msgstr ""
+
+#: widgets/Testimonial.php:104 widgets/Testimonial.php:176
+msgid "Software Developer"
+msgstr ""
+
+#: widgets/Testimonial.php:111 widgets/Testimonial.php:183
+msgid "Testimonial Text"
+msgstr ""
+
+#: widgets/Testimonial.php:118 widgets/Testimonial.php:190
+msgid "Author Image"
+msgstr ""
+
+#: widgets/Testimonial.php:126
+msgid "Signature"
+msgstr ""
+
+#: widgets/Testimonial.php:220
+msgid "Feedback Text Color"
+msgstr ""
+
+#: widgets/Testimonial.php:240 widgets/Testimonial.php:261
+msgid "Author Name Color"
+msgstr ""
+
+#: widgets/Video_playlist.php:25
+msgid "Video Playlist"
+msgstr ""
+
+#: widgets/Video_playlist.php:58
+msgid "Slide"
+msgstr ""
+
+#: widgets/Video_playlist.php:83
+msgid "Title text"
+msgstr ""
+
+#: widgets/Video_playlist.php:92
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/inc/docs/docs-5.php:58
+msgid "Article in this Docs."
+msgstr ""
+
+#: widgets/inc/hero/controls/1_bg_shapes.php:29
+msgid "Plus 01"
+msgstr ""
+
+#: widgets/inc/hero/controls/1_bg_shapes.php:42
+msgid "Plus 02"
+msgstr ""
+
+#: widgets/inc/hero/controls/1_bg_shapes.php:91
+msgid "Shape 03"
+msgstr ""
+
+#: widgets/inc/hero/controls/1_bg_shapes.php:101
+msgid "Shape 04"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:11
+msgid "Floating Objects"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:21
+msgid "Object 01"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:31
+msgid "Object 02"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:41
+msgid "Object 03"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:51
+msgid "Object 04"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:61
+msgid "Object 05"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:71
+msgid "Object 06"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:81
+msgid "Object 07"
+msgstr ""
+
+#: widgets/inc/hero/controls/2_bg_obj_classic.php:91
+msgid "Object 08"
+msgstr ""
+
+#: widgets/inc/hero/controls/4_bg_obj.php:9
+#: widgets/inc/hero/controls/5_featured_images.php:9
+msgid "Featured Images"
+msgstr ""
+
+#: widgets/inc/hero/controls/4_bg_obj.php:18
+msgid "Left Image"
+msgstr ""
+
+#: widgets/inc/hero/controls/4_bg_obj.php:28
+msgid "Right Image"
+msgstr ""
+
+#: widgets/inc/hero/controls/4_bg_obj.php:45
+msgid "Style Background"
+msgstr ""
+
+#: widgets/inc/hero/controls/4_bg_obj.php:65
+msgid "Star 01"
+msgstr ""
+
+#: widgets/inc/hero/controls/4_bg_obj.php:75
+msgid "Star 02"
+msgstr ""
+
+#: widgets/inc/hero/controls/4_bg_obj.php:85
+msgid "Star 03"
+msgstr ""
+
+#: widgets/inc/hero/controls/5_featured_images.php:18
+msgid "Featured Image 01"
+msgstr ""
+
+#: widgets/inc/hero/controls/5_featured_images.php:29
+msgid "Featured Image 03"
+msgstr ""
+
+#: widgets/inc/hero/controls/5_featured_images.php:39
+msgid "Featured Image 04"
+msgstr ""
+
+#: widgets/inc/hero/controls/5_featured_images.php:49
+msgid "Featured Image 05"
+msgstr ""
+
+#: widgets/inc/hero/controls/style_keywords.php:10
+msgid "Style Keywords"
+msgstr ""
+
+#: widgets/inc/hero/controls/style_keywords.php:18
+#: widgets/inc/search-form/controls/style.php:154
+msgid "Margin around the keywords block"
+msgstr ""
+
+#: widgets/inc/hero/controls/style_keywords.php:31
+#: widgets/inc/search-form/controls/style.php:167
+msgid "Label Color"
+msgstr ""
+
+#: widgets/inc/hero/controls/style_keywords.php:41
+#: widgets/inc/search-form/controls/style.php:187
+msgid "Keyword Color"
+msgstr ""
+
+#: widgets/inc/nav-menu/dark-action.php:23
+#: widgets/inc/nav-menu/dark-switcher.php:7
+msgid "Toggle dark mode"
+msgstr ""
+
+#: widgets/inc/nav-menu/layout-default.php:21
+#: widgets/inc/nav-menu/layout-search.php:29
+msgid "Search..."
+msgstr ""
+
+#: widgets/inc/search-form/controls/style.php:48
+msgid "Focus Background Color"
+msgstr ""
+
+#: widgets/inc/search-form/controls/style.php:69
+msgid "Placeholder Color"
+msgstr ""
+
+#: widgets/inc/search-form/controls/style.php:121
+msgid "Icon/Label Color"
+msgstr ""
+
+#: widgets/inc/search-form/controls/style.php:179
+msgid "Label Typography"
+msgstr ""
+
+#: wp-widgets/About.php:8
+msgid "(Docy) About Us"
+msgstr ""
+
+#: wp-widgets/About.php:9
+msgid "About us with logo and social links."
+msgstr ""
+
+#: wp-widgets/Docs.php:31
+msgid "List of your documentations."
+msgstr ""
+
+#: wp-widgets/Docs.php:34
+msgid "(Docy) Docs List"
+msgstr ""
+
+#: wp-widgets/Docs.php:52
+msgid "Documentation List"
+msgstr ""
+
+#: wp-widgets/Docs.php:113 wp-widgets/Forums_widget.php:144
+#: wp-widgets/Recent_posts.php:148 wp-widgets/Topic_details.php:154
+msgid "Title:"
+msgstr ""
+
+#: wp-widgets/Docs.php:116 wp-widgets/Recent_posts.php:151
+msgid "Number of Posts to Show:"
+msgstr ""
+
+#: wp-widgets/Forums_widget.php:19
+msgid "A list of forums with displaying topics count."
+msgstr ""
+
+#: wp-widgets/Forums_widget.php:23
+msgid "(Docy) Forums List"
+msgstr ""
+
+#: wp-widgets/Forums_widget.php:150 wp-widgets/Topic_details.php:159
+msgid "Parent Forum ID:"
+msgstr ""
+
+#: wp-widgets/Forums_widget.php:156 wp-widgets/Topic_details.php:163
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr ""
+
+#: wp-widgets/Recent_posts.php:31
+msgid "Your sit  e&#8217;s most recent Posts."
+msgstr ""
+
+#: wp-widgets/Recent_posts.php:34
+msgid "(Docy) Recent Posts"
+msgstr ""
+
+#: wp-widgets/Recent_posts.php:52
+msgid "Recent Posts"
+msgstr ""
+
+#: wp-widgets/Recent_posts.php:94
+msgid "(no title)"
+msgstr ""
+
+#: wp-widgets/Recent_posts.php:155
+msgid "Display Post Date?"
+msgstr ""
+
+#: wp-widgets/Topic_details.php:22
+msgid "Topic Details"
+msgstr ""
+
+#: wp-widgets/Topic_details.php:26
+msgid "(Docy) Topic Details"
+msgstr ""
+
+#: wp-widgets/Topic_details.php:63
+msgid "Subscribed"
+msgstr ""
+
+#: wp-widgets/Topic_details.php:69
+msgid "Customer"
+msgstr ""
+
+#: wp-widgets/Topic_details.php:78
+msgid "Contact"
+msgstr ""
+
+#: wpml/WPML_Fields.php:22
+msgid "Alert Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:27
+msgid "Alert Description"
+msgstr ""
+
+#: wpml/WPML_Fields.php:37
+msgid "Accordion Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:42
+msgid "Accordion Subtitle"
+msgstr ""
+
+#: wpml/WPML_Fields.php:62
+msgid "Call to Action :: Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:67
+msgid "Call to Action :: Subtitle"
+msgstr ""
+
+#: wpml/WPML_Fields.php:72
+msgid "Call to Action :: Button Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:82
+msgid "Cheat Sheet :: Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:103
+msgid "Hero :: Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:108
+msgid "Hero :: Subtitle"
+msgstr ""
+
+#: wpml/WPML_Fields.php:113
+msgid "Hero :: Placeholder"
+msgstr ""
+
+#: wpml/WPML_Fields.php:118
+msgid "Hero :: Submit Label"
+msgstr ""
+
+#: wpml/WPML_Fields.php:123
+msgid "Hero :: Keywords Label"
+msgstr ""
+
+#: wpml/WPML_Fields.php:134
+msgid "Info Box :: Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:139
+msgid "Info Box :: Link Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:154
+msgid "Mailchimp Form :: Title"
+msgstr ""
+
+#: wpml/WPML_Fields.php:159
+msgid "Mailchimp Form :: Email Placeholder"
+msgstr ""
+
+#: wpml/WPML_Fields.php:164
+msgid "Mailchimp Form :: Button Label"
+msgstr ""
+
+#: wpml/WPML_Fields.php:184
+msgid "Video Playlist :: Title"
+msgstr ""
+
+#: wpml/widgets/Cheatsheet.php:35
+msgid "Cheat Sheet :: Box Title"
+msgstr ""
+
+#: wpml/widgets/Cheatsheet.php:37
+msgid "Cheat Sheet :: Box Content"
+msgstr ""
+
+#: wpml/widgets/Cheatsheet.php:39
+msgid "Cheat Sheet :: Box Number"
+msgstr ""
+
+#: wpml/widgets/Counter.php:35
+msgid "Counter: Label"
+msgstr ""
+
+#: wpml/widgets/Counter.php:37
+msgid "Counter: Count Value"
+msgstr ""
+
+#: wpml/widgets/Hero_keywords.php:35
+msgid "Hero :: Keyword Title"
+msgstr ""
+
+#: wpml/widgets/List_items.php:35
+msgid "List Item :: Title"
+msgstr ""
+
+#: wpml/widgets/Tab_items.php:35
+msgid "Tab :: Title"
+msgstr ""
+
+#: wpml/widgets/Tab_items.php:37
+msgid "Tab :: Content"
+msgstr ""
+
+#: wpml/widgets/data_table_content_rows.php:35
+msgid "Table :: Cell Title"
+msgstr ""
+
+#: wpml/widgets/data_table_content_rows.php:37
+msgid "Table :: Cell Text"
+msgstr ""
+
+#: wpml/widgets/data_table_header_cols_data.php:35
+msgid "Table :: Column Name"
+msgstr ""
+
+#: wpml/widgets/data_table_header_cols_data.php:37
+msgid "Table :: Column Span"
+msgstr ""
+
+#: wpml/widgets/testimonials.php:35
+msgid "Testimonials :: Name"
+msgstr ""
+
+#: wpml/widgets/testimonials.php:37
+msgid "Testimonials :: Designation"
+msgstr ""
+
+#: wpml/widgets/testimonials.php:39
+msgid "Testimonials :: Content"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/spider-themes/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin adds the core features to the Docy WordPress theme. You must "
+"have to install this plugin to get all the features included with the Docy "
+"theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "spider-themes"
+msgstr ""

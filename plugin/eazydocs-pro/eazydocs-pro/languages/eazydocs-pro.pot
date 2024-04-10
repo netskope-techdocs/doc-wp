@@ -1,0 +1,817 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-12-25 03:24+0600\n"
+"PO-Revision-Date: 2022-04-05 15:26+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_attr__;esc_html_e;esc_attr_e;_e;__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: eazydocs.php:255
+msgid "EazyDocs Pro has been updated. We have merged the docs views meta to eazydocs own table."
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:35 includes/Admin/Admin_Actions.php:48
+#: includes/Admin/Admin_Actions.php:61 includes/Admin/Admin_Actions.php:74
+msgid "Duplicate this doc with the child docs."
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:88
+msgid "Docs visibility"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:96 includes/Admin/Admin_Actions.php:103
+msgid "Section visibility"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:116
+msgid "Docs Sidebar"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:127
+msgid "Hold the mouse and drag to move this doc."
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:142 includes/Admin/Admin_Actions.php:157
+msgid "Notifications"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:144
+msgid "Notify Icon"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:165
+#: includes/Elementor/Glossary_Doc/glossary-doc-1.php:4
+msgid "All"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:169
+msgid "Comments"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:173
+msgid "Vote"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:269
+msgid "Voted"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:275 includes/Admin/Admin_Actions.php:317
+msgid " ago"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:310
+msgid "Responded on"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:330
+msgid "No new notifications"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:360
+msgid "Users Feedback"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:362
+msgid "Badges"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:364
+msgid "Feedbacks Archived"
+msgstr ""
+
+#: includes/Admin/Admin_Actions.php:367
+msgid "Analytics"
+msgstr ""
+
+#: includes/Admin/Assets.php:31
+msgid "Archive This Message"
+msgstr ""
+
+#: includes/Admin/Assets.php:32
+msgid "Click on the Mark as Archive button to archive this message."
+msgstr ""
+
+#: includes/Admin/Assets.php:33
+msgid "Open This Message"
+msgstr ""
+
+#: includes/Admin/Assets.php:34
+msgid "Click on the Mark as Open button to Open this message."
+msgstr ""
+
+#: includes/Admin/Assets.php:35
+msgid "Delete This Message"
+msgstr ""
+
+#: includes/Admin/Assets.php:36
+msgid "Click on the Delete button to delete this message."
+msgstr ""
+
+#: includes/Admin/analytics/Ajax_actions.php:290
+#: includes/Admin/analytics/Ajax_actions.php:391
+#: includes/Admin/analytics/parts/helpful-least.php:44
+#: includes/Admin/analytics/parts/helpful-most.php:46
+msgid "View this doc item in new tab"
+msgstr ""
+
+#: includes/Admin/analytics/Ajax_actions.php:302
+#: includes/Admin/analytics/Ajax_actions.php:403
+#: includes/Admin/analytics/parts/helpful-least.php:55
+#: includes/Admin/analytics/parts/helpful-most.php:57
+msgid "No Positive votes, "
+msgstr ""
+
+#: includes/Admin/analytics/Ajax_actions.php:304
+#: includes/Admin/analytics/Ajax_actions.php:405
+#: includes/Admin/analytics/parts/helpful-least.php:56
+#: includes/Admin/analytics/parts/helpful-most.php:58
+msgid "No Negative votes."
+msgstr ""
+
+#: includes/Admin/analytics/Ajax_actions.php:325
+#: includes/Admin/analytics/Ajax_actions.php:425
+#: includes/Admin/analytics/parts/helpful-least.php:74
+#: includes/Admin/analytics/parts/helpful-most.php:75
+msgid "No rates"
+msgstr ""
+
+#: includes/Admin/analytics/Analytics.php:20
+msgid "Overview"
+msgstr ""
+
+#: includes/Admin/analytics/Analytics.php:26
+#: includes/Admin/analytics/parts/overview.php:86
+msgid "Views"
+msgstr ""
+
+#: includes/Admin/analytics/Analytics.php:32
+#: includes/Admin/analytics/parts/overview.php:90
+msgid "Feedback"
+msgstr ""
+
+#: includes/Admin/analytics/Analytics.php:38
+#: includes/template-library/templates/views/template-library-badge.php:5
+msgid "Search"
+msgstr ""
+
+#: includes/Admin/analytics/Analytics.php:44
+msgid "Helpful Docs"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:46
+msgid "Feedback Analytics"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:55
+msgid "Positive"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:59
+msgid "Negative"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:64
+#: includes/Admin/analytics/parts/overview.php:99
+#: includes/Admin/analytics/parts/search.php:64
+#: includes/Admin/analytics/parts/views.php:51
+msgid "This Week"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:67
+#: includes/Admin/analytics/parts/search.php:68
+#: includes/Admin/analytics/parts/views.php:54
+msgid "Last 30 Days"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:70
+#: includes/Admin/analytics/parts/overview.php:105
+#: includes/Admin/analytics/parts/search.php:72
+#: includes/Admin/analytics/parts/views.php:57
+msgid "Custom Date Range"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:78
+msgid "Positive Feedback"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:83
+#: includes/Admin/analytics/parts/overview.php:120
+msgid "Voted Helpful"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:91
+msgid "0% Positive Feedback"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:97
+msgid "Negative Feedback"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:102
+msgid "Voted Unhelpful"
+msgstr ""
+
+#: includes/Admin/analytics/parts/feedback.php:109
+msgid "0% Negative Feedback"
+msgstr ""
+
+#: includes/Admin/analytics/parts/helpful-docs.php:7
+msgid "Most Helpful"
+msgstr ""
+
+#: includes/Admin/analytics/parts/helpful-docs.php:10
+msgid "Least Helpful"
+msgstr ""
+
+#: includes/Admin/analytics/parts/helpful-docs.php:17
+#: includes/Admin/analytics/parts/helpful-docs.php:28
+msgid "Number of items to show"
+msgstr ""
+
+#: includes/Admin/analytics/parts/helpful-docs.php:18
+#: includes/Admin/analytics/parts/helpful-docs.php:29
+msgid ":"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:78
+msgid "Analytics Overview"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:94
+msgid "Searches"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:102
+msgid "Last Month"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:112
+#: includes/Admin/analytics/parts/overview.php:139
+msgid "Article Feedback"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:131
+msgid "Voted Not Helpful"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:145
+msgid "Search Effectiveness"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:153
+msgid "Total Searches"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:163
+msgid "Failed Searches"
+msgstr ""
+
+#: includes/Admin/analytics/parts/overview.php:172
+msgid "0% Search Effectiveness"
+msgstr ""
+
+#: includes/Admin/analytics/parts/search.php:51
+msgid "Total Search"
+msgstr ""
+
+#: includes/Admin/analytics/parts/search.php:55
+msgid "Result Found"
+msgstr ""
+
+#: includes/Admin/analytics/parts/search.php:59
+msgid "No Result Found"
+msgstr ""
+
+#: includes/Admin/analytics/parts/search.php:87
+msgid "Popular Keywords"
+msgstr ""
+
+#: includes/Admin/analytics/parts/search.php:90
+#: includes/Admin/analytics/parts/search.php:128
+msgid "Count"
+msgstr ""
+
+#: includes/Admin/analytics/parts/search.php:111
+#: includes/Admin/analytics/parts/search.php:150
+msgid "No data found"
+msgstr ""
+
+#: includes/Admin/analytics/parts/search.php:125
+msgid "Not Found Keywords"
+msgstr ""
+
+#: includes/Admin/analytics/parts/views.php:71
+msgid "This Week Views"
+msgstr ""
+
+#: includes/Admin/analytics/parts/views.php:79
+msgid "Last Month Views"
+msgstr ""
+
+#: includes/Admin/analytics/parts/views.php:87
+msgid "Total Views"
+msgstr ""
+
+#: includes/Admin/core_installer.php:102
+msgid "You don't have permission to install the plugins"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:29
+msgid "EazyDocs Glossary Doc"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:58
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:64
+msgid "Doc"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:72
+msgid "Excerpt"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:73
+msgid "Excerpt word limit of the documentation sections. If the excerpt got empty, this will get from the post content."
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:84
+#: shortcodes/one-page-shortcode.php:97
+msgid "Articles"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:85
+msgid "Number of articles to show under every sections"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:94
+msgid "Order"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:106
+msgid "Tooltip"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:116
+msgid "Content Limit Display"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:133
+msgid "Buttons"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:142
+msgid "Read More Button"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:151
+msgid "Section Button"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:163
+msgid "Button Text"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:176
+msgid "Button URL"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:188
+msgid "Show More Button"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:200
+msgid "Show Less Text"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:220
+msgid "Alphabet"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:227
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:340
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:492
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:531
+msgid "Text Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:248
+msgid "Alphabet Background"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:261
+msgid "Search Box"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:268
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:465
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:738
+msgid "Padding"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:282
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:457
+msgid "Border"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:289
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:750
+msgid "Background Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:299
+msgid "Focus Background Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:309
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:760
+msgid "Border Radius"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:320
+msgid "Placeholder Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:332
+msgid "Typography"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:355
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:563
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:605
+msgid "Content"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:362
+msgid "Doc Alphabet Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:383
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:447
+msgid "Background"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:399
+msgid "Doc Content Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:418
+msgid "Icon Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:435
+msgid "Box"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:482
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:573
+msgid "Title"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:521
+msgid "Subtitle"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:579
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:612
+msgid "Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:644
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:654
+msgid "Background Objects"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:663
+msgid "Shape"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:664
+msgid "The background shape should be transparent png or svg image."
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:677
+msgid "Round Objects 01"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:687
+msgid "Round 01 Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:701
+msgid "Round Objects 02"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:711
+msgid "Round 02 Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:728
+msgid "Tooltip Style"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:772
+msgid "Title Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/Glossary_Doc.php:790
+msgid "Content Color"
+msgstr ""
+
+#: includes/Elementor/Glossary_Doc/glossary-doc-1.php:44
+msgid "Search by Keyword ..."
+msgstr ""
+
+#: includes/Frontend/Assistant.php:28
+msgid "Knowledge Base"
+msgstr ""
+
+#: includes/Frontend/Assistant.php:29
+msgid "No Posts Found"
+msgstr ""
+
+#: includes/Frontend/Assistant.php:30
+msgid "Search.."
+msgstr ""
+
+#: includes/Frontend/Assistant.php:33
+msgid "Contact"
+msgstr ""
+
+#: includes/Frontend/Assistant.php:43
+msgid "Full Name"
+msgstr ""
+
+#: includes/Frontend/Assistant.php:45
+msgid "Subject"
+msgstr ""
+
+#: includes/Frontend/Assistant.php:46
+msgid "Write Your Message"
+msgstr ""
+
+#: includes/Frontend/Assistant.php:47
+msgid "Send Message"
+msgstr ""
+
+#: includes/Frontend/Assistant.php:176
+msgid "Chat Icon"
+msgstr ""
+
+#: includes/Frontend/Assistant.php:178
+msgid "Close Icon"
+msgstr ""
+
+#: includes/Frontend/Assistant/Mailer.php:24
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/Frontend/Assistant/Mailer.php:31
+msgid "Please provide a subject line."
+msgstr ""
+
+#: includes/Frontend/Assistant/Mailer.php:35
+msgid "Please provide the message details."
+msgstr ""
+
+#: includes/Frontend/Assistant/Mailer.php:42
+#, php-format
+msgid "[%1$s] New EazyDocs Pro Query: \"%2$s\""
+msgstr ""
+
+#: includes/Frontend/Assistant/Mailer.php:44
+#, php-format
+msgid "New Message From EazyDocs Pro Assistant. Source: %s"
+msgstr ""
+
+#: includes/Frontend/Assistant/Mailer.php:45
+#, php-format
+msgid "From: %s"
+msgstr ""
+
+#: includes/Frontend/Assistant/Mailer.php:46
+#, php-format
+msgid "Message: %s"
+msgstr ""
+
+#: includes/Frontend/Frontend_Actions.php:40
+msgid "Edit"
+msgstr ""
+
+#: includes/Frontend/Frontend_Actions.php:52
+msgid "Add Doc"
+msgstr ""
+
+#: includes/Frontend/Frontend_Actions.php:67
+msgid "Contributors"
+msgstr ""
+
+#: includes/Frontend/Frontend_Actions.php:68
+msgid "Manage Contributors"
+msgstr ""
+
+#: includes/Frontend/Frontend_Actions.php:116
+msgid "Search By Email or Name"
+msgstr ""
+
+#: includes/Frontend/Frontend_Actions.php:221
+msgid "Loading..."
+msgstr ""
+
+#: includes/Frontend/Search.php:49
+msgid "No Results Found. Please Type a different keyword"
+msgstr ""
+
+#: includes/User_Feedback.php:33 includes/User_Feedback.php:34
+#: includes/User_Feedback.php:35
+msgid "User Feedback"
+msgstr ""
+
+#: includes/User_Feedback.php:36
+msgid "Parent Feedback"
+msgstr ""
+
+#: includes/User_Feedback.php:37
+msgid "All Feedbacks"
+msgstr ""
+
+#: includes/User_Feedback.php:38
+msgid "View Feedback"
+msgstr ""
+
+#: includes/User_Feedback.php:39
+msgid "Add Feedback"
+msgstr ""
+
+#: includes/User_Feedback.php:40
+msgid "Add New"
+msgstr ""
+
+#: includes/User_Feedback.php:41
+msgid "Edit Feedback"
+msgstr ""
+
+#: includes/User_Feedback.php:42
+msgid "Update Feedback"
+msgstr ""
+
+#: includes/User_Feedback.php:43
+msgid "Search Feedback"
+msgstr ""
+
+#: includes/User_Feedback.php:44
+msgid "Not Feedback found"
+msgstr ""
+
+#: includes/User_Feedback.php:45
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/feedback/feedback-archive-search.php:50
+#: includes/feedback/feedback-archived.php:92
+#: includes/feedback/feedback-open-search.php:47
+#: includes/feedback/feedback-open.php:88
+msgid "No feedback found!"
+msgstr ""
+
+#: includes/functions.php:44
+msgid "Home"
+msgstr ""
+
+#: includes/functions.php:47
+msgid "Docs"
+msgstr ""
+
+#: includes/functions.php:473
+msgid "You must log in to continue."
+msgstr ""
+
+#: includes/functions.php:474
+msgid "Login to "
+msgstr ""
+
+#: includes/functions.php:475
+msgid "Log In"
+msgstr ""
+
+#: includes/functions.php:476
+msgid "Forgotten account?"
+msgstr ""
+
+#: includes/notices.php:14
+msgid "Activate Now!"
+msgstr ""
+
+#: includes/notices.php:14
+msgid "Install Now!"
+msgstr ""
+
+#: includes/notices.php:20
+msgid "EazyDocs Pro"
+msgstr ""
+
+#: includes/notices.php:20
+msgid "requires the"
+msgstr ""
+
+#: includes/notices.php:20
+msgid "EazyDocs"
+msgstr ""
+
+#: includes/notices.php:20
+msgid "Free version plugin to be installed and activated. Please get the plugin now!"
+msgstr ""
+
+#: includes/template-library/templates/api.php:21
+msgid "Eazydocs Library"
+msgstr ""
+
+#: includes/template-library/templates/api.php:165
+msgid "Template does not have any content"
+msgstr ""
+
+#: includes/template-library/templates/import.php:30
+msgid "Post not found"
+msgstr ""
+
+#: includes/template-library/templates/import.php:36
+msgid "Template id missing"
+msgstr ""
+
+#: includes/template-library/templates/init.php:38
+msgid "No Templates Found"
+msgstr ""
+
+#: includes/template-library/templates/init.php:39
+msgid "Try different category or sync for new templates."
+msgstr ""
+
+#: includes/template-library/templates/init.php:40
+msgid "No Results Found"
+msgstr ""
+
+#: includes/template-library/templates/init.php:41
+msgid "Please make sure your search is spelled correctly or try a different words."
+msgstr ""
+
+#: includes/template-library/templates/load.php:41
+msgid "Post not found."
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-badge.php:4
+msgid "Search Templates:"
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-badge.php:15
+msgid "Filter"
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-button.php:5
+msgid "Insert"
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-button.php:12
+msgid "Go Pro"
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-header.php:11
+msgid "Back to Library"
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-header.php:26
+#: includes/template-library/templates/views/template-library-header.php:27
+msgid "Sync Library"
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-loader.php:11
+msgid "Loading"
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-preview.php:9
+msgid "Live Preview"
+msgstr ""
+
+#: includes/template-library/templates/views/template-library-toolbar.php:8
+msgid "Pro"
+msgstr ""
+
+#: shortcodes/one-page-shortcode.php:166
+msgid "Decrease font size"
+msgstr ""
+
+#: shortcodes/one-page-shortcode.php:167
+msgid "Default font size"
+msgstr ""
+
+#: shortcodes/one-page-shortcode.php:168
+msgid "Increase font size"
+msgstr ""
