@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<style>
+* {
+  box-sizing: border-box;  
+}
+
+body {
+  margin: 0; 
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header {
+  padding: 10px;
+  background: #333; 
+  color: #fff; 
+}
+
+.content {
+  display: flex;
+  flex: 1;  
+}
+
+.col-left {
+  background: #eee;
+  width: 20%;
+}
+
+.col-center {
+  background: #ddd;
+  flex: 1; 
+  margin: 0 10px;
+}
+
+.col-right {
+  background: #eee; 
+  width: 20%;  
+}
+
+.footer {
+  padding: 5px; 
+  background: #333;
+  color: #fff;
+  text-align: center;   
+}
+
+@media(max-width: 700px) {
+  .col-left, .col-right {
+    display: none;
+  }  
+  
+  .col-center {
+    margin: 0;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+  Header 
+</div>
+
+<div class="content">
+  <div class="col-left">
+    Left 
+  </div>
+
+  <div class="col-center">
+   Center
+  </div>
+  
+  <div class="col-right">
+    Right
+  </div>  
+</div>
+
+<div class="footer">
+  Footer
+</div>
+
+</body>
+</html>
